@@ -1,0 +1,2837 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="dark_theme.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   id="svg874"
+   version="1.1"
+   viewBox="0 0 27.102186 7.296462"
+   height="7.2964621mm"
+   width="27.102186mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs868">
+    <mask
+       id="SVGID_1_"
+       height="442.504"
+       width="455.73"
+       y="49.985"
+       x="263.135"
+       maskUnits="userSpaceOnUse">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter)"
+         id="g9" />
+    </mask>
+    <filter
+       height="442.504"
+       width="455.73001"
+       y="49.985001"
+       x="263.13501"
+       filterUnits="userSpaceOnUse"
+       id="Adobe_OpacityMaskFilter">
+      <feColorMatrix
+         id="feColorMatrix4"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <filter
+       height="442.504"
+       width="455.73001"
+       y="49.985001"
+       x="263.13501"
+       filterUnits="userSpaceOnUse"
+       id="filter1481">
+      <feColorMatrix
+         id="feColorMatrix1479"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <rect
+       x="82.106979"
+       y="251.38927"
+       width="225.54079"
+       height="135.8313"
+       id="rect16817" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer4"
+     inkscape:document-units="mm"
+     inkscape:cy="92.750476"
+     inkscape:cx="-364.41307"
+     inkscape:zoom="0.98651785"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-global="false"
+     inkscape:pagecheckerboard="0">
+    <sodipodi:guide
+       id="guide2177"
+       orientation="0,-1"
+       position="-1.4828829,66.182745" />
+    <sodipodi:guide
+       id="guide2179"
+       orientation="0,-1"
+       position="-1.7544629,86.30634" />
+    <sodipodi:guide
+       id="guide2203"
+       orientation="0,-1"
+       position="16.045737,91.32722" />
+    <sodipodi:guide
+       position="-44.73007,-146.27646"
+       orientation="1,0"
+       id="guide3591" />
+    <sodipodi:guide
+       position="-32.741811,-146.44738"
+       orientation="1,0"
+       id="guide3593" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata871">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="DARK"
+     id="layer4"
+     inkscape:groupmode="layer"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       y="18.498104"
+       x="0"
+       height="191.87251"
+       width="296.73273"
+       id="rect1709-96"
+       style="display:inline;opacity:0.994;fill:#1a1a1a;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       ry="0"
+       y="22.953228"
+       x="4.4345007"
+       height="181.58293"
+       width="85.745232"
+       id="rect1709-6-72-8"
+       style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       ry="0"
+       style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       id="rect1709-6-5"
+       width="197.71791"
+       height="182.43166"
+       x="94.826973"
+       y="22.989254" />
+    <rect
+       style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       id="rect1518-1"
+       width="296.73276"
+       height="7.4835467"
+       x="0"
+       y="11.014556" />
+    <rect
+       y="0"
+       x="0"
+       height="11.014557"
+       width="296.73273"
+       id="rect1518-3-3"
+       style="display:inline;opacity:0.997;fill:#000080;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       y="11.014555"
+       x="0"
+       height="7.4835467"
+       width="24.85607"
+       id="rect1543-0"
+       style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       y="11.014555"
+       x="24.856073"
+       height="7.4835467"
+       width="28.257858"
+       id="rect1545-8"
+       style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       y="11.014554"
+       x="5.7197793e-09"
+       height="7.4835482"
+       width="41.255142"
+       id="rect1076"
+       style="opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.013247"
+       y="16.423927"
+       id="text1549-3"><tspan
+         sodipodi:role="line"
+         id="tspan1547-57"
+         x="12.013247"
+         y="16.423927"
+         style="fill:#cccccc;stroke-width:0.264583">Beállítások</tspan></text>
+    <rect
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1"
+       id="rect1076-6"
+       width="41.255142"
+       height="7.4835482"
+       x="39.252274"
+       y="11.014554"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\change.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918" />
+    <text
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\change.png"
+       id="text1549-9-1"
+       y="16.602066"
+       x="46.992233"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="16.602066"
+         x="46.992233"
+         id="tspan1547-6-6"
+         sodipodi:role="line">Saját alakzat</tspan></text>
+    <rect
+       style="display:inline;opacity:0.997;fill:#87aade;stroke-width:1.22026;stroke-linecap:round"
+       id="rect1569-0"
+       width="91.406181"
+       height="47.573978"
+       x="151.50421"
+       y="89.444733" />
+    <path
+       style="display:inline;opacity:0.997;fill:#008000;stroke:#1a1a1a;stroke-width:1.22026;stroke-linecap:round"
+       d="M 138.11743,113.59496 H 256.43596"
+       id="path1571-25"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1571-3-1"
+       d="M 196.66657,71.288124 V 158.34229"
+       style="display:inline;opacity:0.997;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.22026;stroke-linecap:round" />
+    <g
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       style="display:inline;stroke-width:12.7716"
+       transform="matrix(0.01491591,0,0,0.01491591,6.5289965,14.427538)"
+       id="g10-3">
+      <g
+         style="opacity:0.998;fill:#4d4d4d;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+         transform="matrix(3.89,0,0,3.89,-175.05,-175.05)"
+         id="g8-3">
+        <g
+           transform="translate(262.36024,-22.688577)"
+           style="fill:#e6e6e6"
+           id="g945-0">
+          <g
+             transform="translate(45.59982,-9.3642488)"
+             id="g949-4">
+            <path
+               inkscape:connector-curvature="0"
+               d="m -239.82283,126.85022 h -14.2 c -2.867,0 -5.2,-2.333 -5.2,-5.2 v -2.114 c 0,-0.329 -0.191,-0.634 -0.454,-0.725 -1.482,-0.511 -2.955,-1.122 -4.375,-1.816 -0.246,-0.118 -0.576,-0.046 -0.802,0.18 l -1.516,1.516 c -0.981,0.982 -2.288,1.523 -3.677,1.523 -1.389,0 -2.695,-0.541 -3.677,-1.524 l -10.039,-10.041 c -2.027,-2.027 -2.027,-5.326 0,-7.354 l 1.516,-1.516001 c 0.223,-0.223 0.299,-0.56 0.181,-0.8 -0.695,-1.423 -1.307,-2.895 -1.818,-4.377 -0.092,-0.262 -0.396,-0.452 -0.725,-0.452 h -2.114 c -2.867,0 -5.2,-2.333 -5.2,-5.2 v -14.2 c 0,-2.867 2.333,-5.2 5.2,-5.2 h 2.115 c 0.329,0 0.633,-0.19 0.724,-0.454 0.513,-1.483 1.124,-2.956 1.817,-4.374 0.12,-0.246 0.046,-0.576 -0.181,-0.802 l -1.515,-1.515 c -2.027,-2.028 -2.027,-5.327 0,-7.354 l 10.041,-10.042 c 0.982,-0.982 2.288,-1.522 3.677,-1.522 1.389,0 2.695,0.541 3.677,1.522 l 1.516,1.517 c 0.224,0.223 0.559,0.3 0.801,0.18 1.418,-0.693 2.891,-1.305 4.375,-1.818 0.263,-0.091 0.453,-0.395 0.453,-0.724 v -2.114 c 0,-2.867 2.333,-5.2 5.2,-5.2 h 14.2 c 2.867,0 5.2,2.333 5.2,5.2 v 2.115 c 0,0.329 0.19,0.633 0.453,0.724 1.482,0.512 2.954,1.124 4.375,1.818 0.247,0.118 0.575,0.045 0.802,-0.181 l 1.516,-1.516 c 2.027,-2.027 5.326,-2.027 7.354,0 l 10.04,10.04 c 2.027,2.028 2.027,5.327 0,7.354 l -1.516,1.516 c -0.227,0.227 -0.301,0.556 -0.181,0.802 0.695,1.42 1.307,2.893 1.818,4.376 0.09,0.262 0.395,0.452 0.724,0.452 h 2.115 c 2.867,0 5.2,2.333 5.2,5.2 v 14.2 c 0,2.867 -2.333,5.2 -5.2,5.2 h -2.114 c -0.329,0 -0.634,0.19 -0.725,0.454 -0.51,1.478 -1.121,2.95 -1.815,4.373 -0.119,0.244 -0.044,0.58 0.179,0.803 l 1.516,1.516001 c 2.027,2.027 2.027,5.326 0,7.354 l -10.042,10.04 c -0.982,0.982 -2.288,1.523 -3.677,1.523 -1.39,0 -2.696,-0.542 -3.678,-1.525 l -1.514,-1.513 c -0.228,-0.226 -0.557,-0.302 -0.803,-0.182 -1.42,0.695 -2.893,1.307 -4.376,1.818 -0.262,0.09 -0.452,0.395 -0.452,0.724 v 2.115 c 0.001,2.867 -2.332,5.2 -5.199,5.2 z m -12.4,-7 h 10.6 v -0.314 c 0,-3.322 2.076,-6.272 5.167,-7.34 1.216,-0.42 2.422,-0.921 3.588,-1.491 2.936,-1.434 6.481,-0.822 8.824,1.521 l 0.243,0.242 7.495,-7.495 -0.242,-0.243 c -2.345,-2.344 -2.955,-5.891001 -1.519,-8.825001 0.569,-1.166 1.07,-2.373 1.488,-3.585 1.068,-3.093 4.019,-5.169 7.341,-5.169 h 0.315 v -10.601 h -0.314 c -3.322,0 -6.272,-2.076 -7.34,-5.167 -0.42,-1.216 -0.921,-2.422 -1.491,-3.588 -1.434,-2.936 -0.823,-6.482 1.521,-8.825 l 0.242,-0.243 -7.495,-7.495 -0.243,0.243 c -2.344,2.344 -5.89,2.953 -8.824,1.52 -1.166,-0.57 -2.373,-1.071 -3.587,-1.491 -3.091,-1.067 -5.168,-4.017 -5.168,-7.34 v -0.314 h -10.601 v 0.314 c 0,3.323 -2.077,6.272 -5.168,7.34 -1.217,0.42 -2.424,0.922 -3.587,1.491 -2.936,1.434 -6.481,0.823 -8.825,-1.52 l -0.243,-0.243 -7.495,7.495 0.243,0.243 c 2.343,2.344 2.954,5.89 1.52,8.825 -0.568,1.163 -1.07,2.37 -1.49,3.587 -1.068,3.092 -4.018,5.168 -7.34,5.168 h -0.315 v 10.6 h 0.314 c 3.323,0 6.272,2.077 7.34,5.168 0.419,1.214 0.921,2.421 1.491,3.588 1.435,2.933 0.824,6.479001 -1.52,8.823001 l -0.243,0.243 7.496,7.495 0.242,-0.242 c 2.344,-2.346 5.891,-2.954 8.826,-1.52 1.164,0.568 2.37,1.07 3.585,1.489 3.092,1.068 5.168,4.019 5.168,7.341 v 0.315 z m 5.328,-12.598 c -6.738,0 -13.204,-2.652 -17.991,-7.439001 -5.265,-5.265 -7.947,-12.561 -7.359,-20.016 0.97,-12.296 10.974,-22.3 23.27,-23.27 7.457,-0.588 14.751,2.095 20.016,7.359 5.265,5.266 7.947,12.561 7.36,20.017 -0.971,12.297 -10.975,22.300001 -23.271,23.270001 v 0 c -0.677,0.053 -1.352,0.079 -2.025,0.079 z m -0.059,-43.804001 c -0.489,0 -0.979,0.02 -1.471,0.058 -8.899,0.702 -16.14,7.943 -16.842,16.843 -0.427,5.41 1.516,10.7 5.331,14.515 3.815,3.815 9.1,5.761001 14.516,5.331001 v 0 c 8.899,-0.701001 16.141,-7.941001 16.843,-16.842001 0.427,-5.41 -1.517,-10.701 -5.331,-14.516 -3.469,-3.468 -8.158,-5.389 -13.046,-5.389 z"
+               style="opacity:1;fill:#e6e6e6;fill-rule:nonzero;stroke:none;stroke-width:12.7716;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+               stroke-linecap="round"
+               id="path6-43" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path941-81"
+               d="m -39.482839,71.054665 c -0.0467,-0.414094 -0.19882,-0.772692 -0.443,-1.04428 -0.212201,-0.236017 -0.377379,-0.338937 -0.847555,-0.528098 -0.227664,-0.09159 -0.541782,-0.220074 -0.69804,-0.285513 -0.476167,-0.199412 -0.967955,-0.188342 -1.424306,0.03206 -0.119456,0.05769 -0.28219,0.162638 -0.361633,0.233209 l -0.144441,0.128312 -0.808458,-0.810696 -0.808459,-0.810695 0.123909,-0.137827 c 0.157199,-0.174856 0.329905,-0.518506 0.378709,-0.753551 0.02144,-0.103256 0.03134,-0.304849 0.0229,-0.466243 -0.01235,-0.236121 -0.03488,-0.33247 -0.132895,-0.568211 -0.06491,-0.156132 -0.188484,-0.459612 -0.274596,-0.674399 -0.190496,-0.475144 -0.31009,-0.667579 -0.545017,-0.876966 -0.281465,-0.250866 -0.600917,-0.385904 -1.03702,-0.438367 l -0.181512,-0.02184 V 62.901053 61.77054 l 0.181512,-0.02047 c 0.416216,-0.04694 0.77267,-0.1988 1.048307,-0.446621 0.22531,-0.202573 0.345541,-0.397957 0.53373,-0.867347 0.08611,-0.214787 0.209681,-0.518267 0.274596,-0.674399 0.201379,-0.484348 0.188895,-0.983146 -0.03585,-1.432387 -0.05944,-0.118814 -0.163963,-0.279519 -0.232273,-0.357123 l -0.124199,-0.141098 0.810695,-0.808459 0.810696,-0.808458 0.137826,0.123909 c 0.174856,0.157199 0.518506,0.329905 0.753552,0.378708 0.103255,0.02144 0.304848,0.03134 0.466243,0.0229 0.23612,-0.01235 0.332469,-0.03488 0.56821,-0.132895 0.156133,-0.06491 0.460643,-0.188887 0.676689,-0.275491 0.216046,-0.0866 0.468005,-0.207374 0.559908,-0.268376 0.420736,-0.279268 0.687818,-0.745656 0.75177,-1.312766 l 0.02047,-0.181512 h 1.13415 1.134151 v 0.08025 c 0,0.169692 0.103732,0.575315 0.194604,0.76096 0.111178,0.227127 0.351649,0.507892 0.554591,0.647519 0.07884,0.05425 0.329621,0.173568 0.557285,0.265162 0.227665,0.09159 0.54168,0.219577 0.697812,0.284409 0.484912,0.20135 0.983273,0.188677 1.433271,-0.03645 0.119299,-0.05968 0.27893,-0.164273 0.354734,-0.232423 l 0.137827,-0.123909 0.810696,0.808458 0.810695,0.808459 -0.128312,0.144441 c -0.155818,0.175405 -0.325165,0.516493 -0.374556,0.754408 -0.02005,0.09657 -0.03043,0.304248 -0.02307,0.461504 0.01129,0.241364 0.03192,0.330195 0.132358,0.570026 0.06544,0.156258 0.19392,0.470377 0.285513,0.698041 0.191272,0.475423 0.293676,0.638145 0.539458,0.857206 0.274347,0.244522 0.583873,0.375206 1.032921,0.436108 l 0.149944,0.02033 v 1.129 1.129 l -0.237175,0.03528 c -0.421869,0.06275 -0.694757,0.18896 -0.986928,0.456469 -0.178896,0.163796 -0.365338,0.447262 -0.435568,0.662237 -0.02942,0.09005 -0.131787,0.341301 -0.227482,0.558326 -0.217681,0.493671 -0.258577,0.64587 -0.259046,0.964061 -6.32e-4,0.427979 0.148229,0.834524 0.413583,1.129514 l 0.118664,0.131917 -0.808458,0.810695 -0.808458,0.810696 -0.141099,-0.1242 c -0.179746,-0.158219 -0.521577,-0.329639 -0.753241,-0.377732 -0.09905,-0.02056 -0.308758,-0.03137 -0.466014,-0.02401 -0.241363,0.01129 -0.330195,0.03192 -0.570026,0.132358 -0.156258,0.06544 -0.470376,0.19392 -0.698041,0.285513 -0.467167,0.18795 -0.635559,0.292309 -0.841792,0.521689 -0.264059,0.293697 -0.40785,0.619548 -0.449717,1.019122 l -0.02233,0.213079 h -1.130473 -1.130473 z m 2.052015,-2.639928 c 0.860742,-0.155519 1.630755,-0.473887 2.320194,-0.959301 0.387176,-0.272599 1.060202,-0.945544 1.333318,-1.333156 1.194224,-1.694869 1.3564,-3.861677 0.428826,-5.729459 -1.19743,-2.411169 -3.992924,-3.613926 -6.591936,-2.83617 -0.460834,0.137905 -1.101172,0.446446 -1.538225,0.74118 -0.466838,0.314819 -1.141612,0.989594 -1.456432,1.456432 -0.294733,0.437052 -0.603275,1.077391 -0.74118,1.538225 -0.781008,2.60988 0.438564,5.421864 2.867737,6.612184 0.641136,0.314163 1.185956,0.465757 2.036089,0.566532 0.214915,0.02548 1.09252,-0.01146 1.341609,-0.05647 z"
+               style="opacity:0.997;fill:#e6e6e6;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.377953;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none"
+               transform="matrix(4.559982,0,0,4.559982,-72.130712,-204.98172)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       id="text1223"
+       y="120.12083"
+       x="64.104904"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;inline-size:0;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1267"
+         style="text-align:end;text-anchor:end;fill:#e6e6e6;stroke-width:0.264583"
+         y="120.12083"
+         x="64.104904"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1315"
+       y="119.54965"
+       x="13.096207"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1317"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="119.54965"
+         x="13.096207"
+         sodipodi:role="line">Eredmények:</tspan><tspan
+         id="tspan1339"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="126.6052"
+         x="13.096207"
+         sodipodi:role="line">asdasd</tspan><tspan
+         id="tspan1321"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="133.66075"
+         x="13.096207"
+         sodipodi:role="line">asd</tspan><tspan
+         id="tspan1323"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="140.71631"
+         x="13.096207"
+         sodipodi:role="line">a</tspan><tspan
+         id="tspan1325"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="147.77185"
+         x="13.096207"
+         sodipodi:role="line">sd</tspan><tspan
+         id="tspan1327"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="154.82741"
+         x="13.096207"
+         sodipodi:role="line" /><tspan
+         id="tspan1329"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="161.88295"
+         x="13.096207"
+         sodipodi:role="line" /><tspan
+         id="tspan1331"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="168.93851"
+         x="13.096207"
+         sodipodi:role="line">aaaaaaaaaaasdas</tspan><tspan
+         id="tspan1333"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="175.99405"
+         x="13.096207"
+         sodipodi:role="line">asd</tspan><tspan
+         id="tspan1335"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="183.04961"
+         x="13.096207"
+         sodipodi:role="line">ad</tspan><tspan
+         id="tspan1337"
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="190.10515"
+         x="13.096207"
+         sodipodi:role="line">dsadasd</tspan></text>
+    <rect
+       style="display:inline;opacity:0.994;fill:#1a1a1a;stroke-width:1.22026;stroke-linecap:round"
+       id="rect1709-96-8"
+       width="84.352478"
+       height="54.888016"
+       x="321.44263"
+       y="49.100471" />
+    <rect
+       style="display:inline;opacity:0.997;fill:#000080;stroke-width:1.22026;stroke-linecap:round"
+       id="rect1518-3-3-3"
+       width="84.352478"
+       height="8.6291733"
+       x="321.44263"
+       y="40.471298" />
+    <rect
+       y="61.741089"
+       x="326.36197"
+       height="7.4835467"
+       width="24.85607"
+       id="rect1543-0-1-7"
+       style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round"
+       id="rect1543-0-2"
+       width="24.85607"
+       height="7.4835467"
+       x="326.0947"
+       y="61.741089" />
+    <rect
+       y="49.100471"
+       x="321.44263"
+       height="7.4835467"
+       width="84.352478"
+       id="rect1518-1-4"
+       style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1"
+       id="rect1076-9"
+       width="38.832748"
+       height="7.4835467"
+       x="321.44263"
+       y="49.100471"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918" />
+    <text
+       id="text1549-3-3"
+       y="54.092644"
+       x="326.59094"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="54.092644"
+         x="326.59094"
+         id="tspan1547-57-3"
+         sodipodi:role="line">Mértékegység</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\theme.png"
+       y="49.100471"
+       x="360.27539"
+       height="7.4835467"
+       width="38.832748"
+       id="rect1076-9-3"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\theme.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="373.37497"
+       y="54.092644"
+       id="text1549-3-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan1547-57-3-1"
+         x="373.37497"
+         y="54.092644"
+         style="fill:#cccccc;stroke-width:0.264583">Téma</tspan></text>
+    <rect
+       ry="3.1009965"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1"
+       id="rect1076-9-3-9"
+       width="27.102186"
+       height="7.2964621"
+       x="369.96863"
+       y="94.279022"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\ok.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"
+       rx="3.1009965" />
+    <text
+       id="text1549-3-3-0-8"
+       y="99.584"
+       x="380.68973"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\ok.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="99.584"
+         x="380.68973"
+         id="tspan1547-57-3-1-9"
+         sodipodi:role="line">Ok</tspan></text>
+    <rect
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1"
+       id="rect1318"
+       width="38.411877"
+       height="5.9868374"
+       x="323.7518"
+       y="62.770073"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\mm_clicked.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918" />
+    <text
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\mm_clicked.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="325.73917"
+       y="66.881767"
+       id="text1549-3-3-03"><tspan
+         sodipodi:role="line"
+         id="tspan1547-57-3-4"
+         x="325.73917"
+         y="66.881767"
+         style="fill:#cccccc;stroke-width:0.264583">Milliméter [mm]</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\cm_clicked.png"
+       y="68.756912"
+       x="323.7518"
+       height="5.9868374"
+       width="38.411877"
+       id="rect1318-0"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       id="text1549-3-3-03-9"
+       y="72.868607"
+       x="325.73917"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\cm_clicked.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="72.868607"
+         x="325.73917"
+         id="tspan1547-57-3-4-3"
+         sodipodi:role="line">Centiméter [cm]</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\m_clicked.png"
+       y="74.743752"
+       x="323.7518"
+       height="5.9868374"
+       width="38.411877"
+       id="rect1318-3"
+       style="display:inline;opacity:0.994;fill:#007f7f;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       id="text1549-3-3-03-92"
+       y="78.855446"
+       x="325.73917"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\m_clicked.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="78.855446"
+         x="325.73917"
+         id="tspan1547-57-3-4-1"
+         sodipodi:role="line">Méter [m]</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\deg.png"
+       y="62.770073"
+       x="365.20636"
+       height="5.9868374"
+       width="38.411877"
+       id="rect1318-35"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       id="text1549-3-3-03-7"
+       y="66.881767"
+       x="367.19373"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\deg.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="66.881767"
+         x="367.19373"
+         id="tspan1547-57-3-4-9"
+         sodipodi:role="line">Fok [°]</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\rad.png"
+       y="68.756912"
+       x="365.20636"
+       height="5.9868374"
+       width="38.411877"
+       id="rect1318-2"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       id="text1549-3-3-03-90"
+       y="72.868607"
+       x="367.19373"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\rad.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="72.868607"
+         x="367.19373"
+         id="tspan1547-57-3-4-2"
+         sodipodi:role="line">Radián [rad]</tspan></text>
+    <rect
+       y="124.04893"
+       x="321.60559"
+       height="52.502632"
+       width="84.352486"
+       id="rect1709-96-8-0"
+       style="display:inline;opacity:0.994;fill:#1a1a1a;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       y="113.03438"
+       x="321.60559"
+       height="8.6291733"
+       width="84.352486"
+       id="rect1518-3-3-3-5"
+       style="display:inline;opacity:0.997;fill:#000080;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       id="rect1518-1-4-5"
+       width="84.352486"
+       height="7.4835467"
+       x="321.60559"
+       y="121.66354" />
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       y="121.66354"
+       x="321.60559"
+       height="7.4835467"
+       width="38.832748"
+       id="rect1076-9-9"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="326.75391"
+       y="126.65573"
+       id="text1549-3-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan1547-57-3-42"
+         x="326.75391"
+         y="126.65573"
+         style="fill:#cccccc;stroke-width:0.264583">Mértékegység</tspan></text>
+    <rect
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1"
+       id="rect1076-9-3-0"
+       width="38.832748"
+       height="7.4835467"
+       x="360.43835"
+       y="121.66354"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918" />
+    <text
+       id="text1549-3-3-0-2"
+       y="126.65573"
+       x="373.53793"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="126.65573"
+         x="373.53793"
+         id="tspan1547-57-3-1-5"
+         sodipodi:role="line">Téma</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       y="166.84209"
+       x="370.13159"
+       height="7.2964621"
+       width="27.102186"
+       id="rect1076-9-3-9-9"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1"
+       ry="3.1009965"
+       rx="3.1009965" />
+    <text
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="380.85269"
+       y="172.14706"
+       id="text1549-3-3-0-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan1547-57-3-1-9-9"
+         x="380.85269"
+         y="172.14706"
+         style="fill:#cccccc;stroke-width:0.264583">Ok</tspan></text>
+    <rect
+       inkscape:export-ydpi="101.9469"
+       inkscape:export-xdpi="101.9469"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\dark.png"
+       ry="1.6862477"
+       y="133.97086"
+       x="330.62534"
+       height="28.785929"
+       width="29.897917"
+       id="rect2143"
+       style="opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0200001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="1.6862477" />
+    <g
+       inkscape:export-ydpi="101.9469"
+       inkscape:export-xdpi="101.9469"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\dark.png"
+       transform="translate(17.281459,29.091923)"
+       id="g2141">
+      <rect
+         style="display:inline;opacity:0.997;fill:#cccccc;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1709-96-7-6"
+         width="25.683455"
+         height="16.607367"
+         x="315.17953"
+         y="115.14236" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1709-6-72-8-7-4"
+         width="7.4216061"
+         height="7.0051594"
+         x="315.56332"
+         y="115.52797"
+         ry="0" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#afe9c6;stroke-width:1.22026;stroke-linecap:round"
+         id="rect928-4-2-5-7"
+         width="5.7400794"
+         height="0.73079091"
+         x="316.26413"
+         y="116.38893"
+         ry="0.20241627"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"
+         rx="0.20241627" />
+      <path
+         sodipodi:nodetypes="sssccss"
+         inkscape:connector-curvature="0"
+         d="m 316.40293,117.5722 h 5.4625 c 0.077,0 0.13906,0.0619 0.13887,0.13887 -0.002,0.59077 -0.002,0.59199 -0.002,0.59199 l -5.73689,-0.001 v -0.59085 c 0,-0.077 0.0619,-0.13887 0.13888,-0.13887 z"
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect960-6-8-4" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect962-2-5-5"
+         width="5.7400794"
+         height="0.73079091"
+         x="316.26413"
+         y="118.32272"
+         ry="0"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#5fd38d;stroke-width:1.22026;stroke-linecap:round"
+         id="rect964-8-2-7"
+         width="5.7400794"
+         height="0.73079091"
+         x="316.26413"
+         y="119.07322"
+         ry="0" />
+      <path
+         id="rect928-4-8-8-4-0"
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         d="m 316.26607,119.82261 h 5.73768 c 0,0 5e-4,0.42102 5e-4,0.59583 0,0.0746 -0.0602,0.135 -0.135,0.135 h -5.47016 c -0.0746,0 -0.13499,-0.0602 -0.13499,-0.135 0.002,-0.59583 0.002,-0.59583 0.002,-0.59583 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsscc" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke:none;stroke-width:45.4429;stroke-linecap:round"
+         id="path902-6-4-2-1"
+         sodipodi:sides="3"
+         sodipodi:cx="163.19598"
+         sodipodi:cy="73.011833"
+         sodipodi:r1="4.9064078"
+         sodipodi:r2="2.4532039"
+         sodipodi:arg1="-0.51238946"
+         sodipodi:arg2="0.53480809"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="-0.032827404"
+         transform="matrix(-0.01373092,0.0230277,0.02317862,0.01364156,321.92168,112.75251)"
+         inkscape:transform-center-x="-1.2937236e-05"
+         d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;opacity:0.997;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:45.4429;stroke-linecap:round"
+         id="path1701-5-5-9"
+         sodipodi:sides="3"
+         sodipodi:cx="163.19598"
+         sodipodi:cy="73.011833"
+         sodipodi:r1="4.9064078"
+         sodipodi:r2="2.4532039"
+         sodipodi:arg1="-0.51238946"
+         sodipodi:arg2="0.53480809"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="0.032838997"
+         transform="matrix(-0.01373092,-0.0230277,0.02317862,-0.01364156,321.92168,121.49372)"
+         inkscape:transform-center-x="-1.2937236e-05"
+         d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <text
+         id="text1000-4-0-0"
+         y="116.89404"
+         x="316.66412"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><tspan
+           style="fill:#000080;stroke-width:0.264584"
+           y="116.89404"
+           x="316.66412"
+           id="tspan998-1-5-5"
+           sodipodi:role="line">Alakzat...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="316.66812"
+         y="118.04302"
+         id="text1000-7-9-9-6"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_rectangle.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><tspan
+           sodipodi:role="line"
+           id="tspan998-7-0-0-4"
+           x="316.66812"
+           y="118.04302"
+           style="stroke-width:0.264584">Téglalap</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="316.63626"
+         y="118.8194"
+         id="text1000-2-1-6-2"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><tspan
+           sodipodi:role="line"
+           id="tspan998-0-4-1-0"
+           x="316.63626"
+           y="118.8194"
+           style="stroke-width:0.264584">Kör</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="316.63626"
+         y="119.54324"
+         id="text1000-3-8-1-4"><tspan
+           sodipodi:role="line"
+           id="tspan998-6-32-0-0"
+           x="316.63626"
+           y="119.54324"
+           style="stroke-width:0.264584">Ellipszis</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="316.63626"
+         y="120.29343"
+         id="text1000-5-45-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan998-2-8-1-1"
+           x="316.63626"
+           y="120.29343"
+           style="stroke-width:0.264584">Egyenlőszárú háromszög</tspan></text>
+      <rect
+         y="115.53107"
+         x="323.38715"
+         height="15.790218"
+         width="17.113308"
+         id="rect1709-6-5-0-2"
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         ry="0" />
+      <rect
+         y="114.49462"
+         x="315.17953"
+         height="0.64773208"
+         width="25.683455"
+         id="rect1518-1-6-6"
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#000080;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1518-3-3-0-8"
+         width="25.683455"
+         height="0.95335573"
+         x="315.17953"
+         y="113.54127" />
+      <rect
+         style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1543-0-1-1"
+         width="2.1513963"
+         height="0.64773208"
+         x="315.17953"
+         y="114.49462" />
+      <rect
+         style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1545-8-7-7"
+         width="2.4458354"
+         height="0.64773208"
+         x="317.33093"
+         y="114.49462" />
+      <text
+         id="text1549-3-1-7"
+         y="114.96284"
+         x="316.21927"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.427484px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"><tspan
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           y="114.96284"
+           x="316.21927"
+           id="tspan1547-57-7-1"
+           sodipodi:role="line">Beállítások</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.427484px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="319.24695"
+         y="114.97824"
+         id="text1549-9-1-6-6"><tspan
+           sodipodi:role="line"
+           id="tspan1547-6-6-8-2"
+           x="319.24695"
+           y="114.97824"
+           style="fill:#4d4d4d;stroke-width:0.264584">Saját alakzat</tspan></text>
+      <rect
+         y="121.2831"
+         x="328.29288"
+         height="4.1177258"
+         width="7.9115868"
+         id="rect1569-0-2-3"
+         style="display:inline;opacity:0.997;fill:#deaa87;stroke-width:1.22026;stroke-linecap:round" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1571-25-4-5"
+         d="m 327.13417,123.37339 h 10.24096"
+         style="display:inline;opacity:0.997;fill:#008000;stroke:#1a1a1a;stroke-width:1.22026;stroke-linecap:round" />
+      <path
+         style="display:inline;opacity:0.997;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.22026;stroke-linecap:round"
+         d="m 332.20185,119.71155 v 7.5349"
+         id="path1571-3-1-4-3"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g10-3-3-0"
+         transform="matrix(0.00129103,0,0,0.00129103,315.74466,114.79003)"
+         style="display:inline;fill:#4d4d4d;stroke-width:147.556">
+        <g
+           id="g8-3-7-3"
+           transform="matrix(3.89,0,0,3.89,-175.05,-175.05)"
+           style="opacity:0.998;fill:#4d4d4d;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none">
+          <g
+             id="g945-0-4-4"
+             style="fill:#4d4d4d;stroke-width:0"
+             transform="translate(262.36024,-22.688577)">
+            <g
+               id="g949-4-4-1"
+               transform="translate(45.59982,-9.3642488)"
+               style="fill:#4d4d4d;stroke-width:0">
+              <path
+                 id="path6-43-3-8"
+                 stroke-linecap="round"
+                 style="opacity:1;fill:#4d4d4d;fill-rule:nonzero;stroke:none;stroke-width:147.556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+                 d="m -239.82283,126.85022 h -14.2 c -2.867,0 -5.2,-2.333 -5.2,-5.2 v -2.114 c 0,-0.329 -0.191,-0.634 -0.454,-0.725 -1.482,-0.511 -2.955,-1.122 -4.375,-1.816 -0.246,-0.118 -0.576,-0.046 -0.802,0.18 l -1.516,1.516 c -0.981,0.982 -2.288,1.523 -3.677,1.523 -1.389,0 -2.695,-0.541 -3.677,-1.524 l -10.039,-10.041 c -2.027,-2.027 -2.027,-5.326 0,-7.354 l 1.516,-1.516001 c 0.223,-0.223 0.299,-0.56 0.181,-0.8 -0.695,-1.423 -1.307,-2.895 -1.818,-4.377 -0.092,-0.262 -0.396,-0.452 -0.725,-0.452 h -2.114 c -2.867,0 -5.2,-2.333 -5.2,-5.2 v -14.2 c 0,-2.867 2.333,-5.2 5.2,-5.2 h 2.115 c 0.329,0 0.633,-0.19 0.724,-0.454 0.513,-1.483 1.124,-2.956 1.817,-4.374 0.12,-0.246 0.046,-0.576 -0.181,-0.802 l -1.515,-1.515 c -2.027,-2.028 -2.027,-5.327 0,-7.354 l 10.041,-10.042 c 0.982,-0.982 2.288,-1.522 3.677,-1.522 1.389,0 2.695,0.541 3.677,1.522 l 1.516,1.517 c 0.224,0.223 0.559,0.3 0.801,0.18 1.418,-0.693 2.891,-1.305 4.375,-1.818 0.263,-0.091 0.453,-0.395 0.453,-0.724 v -2.114 c 0,-2.867 2.333,-5.2 5.2,-5.2 h 14.2 c 2.867,0 5.2,2.333 5.2,5.2 v 2.115 c 0,0.329 0.19,0.633 0.453,0.724 1.482,0.512 2.954,1.124 4.375,1.818 0.247,0.118 0.575,0.045 0.802,-0.181 l 1.516,-1.516 c 2.027,-2.027 5.326,-2.027 7.354,0 l 10.04,10.04 c 2.027,2.028 2.027,5.327 0,7.354 l -1.516,1.516 c -0.227,0.227 -0.301,0.556 -0.181,0.802 0.695,1.42 1.307,2.893 1.818,4.376 0.09,0.262 0.395,0.452 0.724,0.452 h 2.115 c 2.867,0 5.2,2.333 5.2,5.2 v 14.2 c 0,2.867 -2.333,5.2 -5.2,5.2 h -2.114 c -0.329,0 -0.634,0.19 -0.725,0.454 -0.51,1.478 -1.121,2.95 -1.815,4.373 -0.119,0.244 -0.044,0.58 0.179,0.803 l 1.516,1.516001 c 2.027,2.027 2.027,5.326 0,7.354 l -10.042,10.04 c -0.982,0.982 -2.288,1.523 -3.677,1.523 -1.39,0 -2.696,-0.542 -3.678,-1.525 l -1.514,-1.513 c -0.228,-0.226 -0.557,-0.302 -0.803,-0.182 -1.42,0.695 -2.893,1.307 -4.376,1.818 -0.262,0.09 -0.452,0.395 -0.452,0.724 v 2.115 c 0.001,2.867 -2.332,5.2 -5.199,5.2 z m -12.4,-7 h 10.6 v -0.314 c 0,-3.322 2.076,-6.272 5.167,-7.34 1.216,-0.42 2.422,-0.921 3.588,-1.491 2.936,-1.434 6.481,-0.822 8.824,1.521 l 0.243,0.242 7.495,-7.495 -0.242,-0.243 c -2.345,-2.344 -2.955,-5.891001 -1.519,-8.825001 0.569,-1.166 1.07,-2.373 1.488,-3.585 1.068,-3.093 4.019,-5.169 7.341,-5.169 h 0.315 v -10.601 h -0.314 c -3.322,0 -6.272,-2.076 -7.34,-5.167 -0.42,-1.216 -0.921,-2.422 -1.491,-3.588 -1.434,-2.936 -0.823,-6.482 1.521,-8.825 l 0.242,-0.243 -7.495,-7.495 -0.243,0.243 c -2.344,2.344 -5.89,2.953 -8.824,1.52 -1.166,-0.57 -2.373,-1.071 -3.587,-1.491 -3.091,-1.067 -5.168,-4.017 -5.168,-7.34 v -0.314 h -10.601 v 0.314 c 0,3.323 -2.077,6.272 -5.168,7.34 -1.217,0.42 -2.424,0.922 -3.587,1.491 -2.936,1.434 -6.481,0.823 -8.825,-1.52 l -0.243,-0.243 -7.495,7.495 0.243,0.243 c 2.343,2.344 2.954,5.89 1.52,8.825 -0.568,1.163 -1.07,2.37 -1.49,3.587 -1.068,3.092 -4.018,5.168 -7.34,5.168 h -0.315 v 10.6 h 0.314 c 3.323,0 6.272,2.077 7.34,5.168 0.419,1.214 0.921,2.421 1.491,3.588 1.435,2.933 0.824,6.479001 -1.52,8.823001 l -0.243,0.243 7.496,7.495 0.242,-0.242 c 2.344,-2.346 5.891,-2.954 8.826,-1.52 1.164,0.568 2.37,1.07 3.585,1.489 3.092,1.068 5.168,4.019 5.168,7.341 v 0.315 z m 5.328,-12.598 c -6.738,0 -13.204,-2.652 -17.991,-7.439001 -5.265,-5.265 -7.947,-12.561 -7.359,-20.016 0.97,-12.296 10.974,-22.3 23.27,-23.27 7.457,-0.588 14.751,2.095 20.016,7.359 5.265,5.266 7.947,12.561 7.36,20.017 -0.971,12.297 -10.975,22.300001 -23.271,23.270001 v 0 c -0.677,0.053 -1.352,0.079 -2.025,0.079 z m -0.059,-43.804001 c -0.489,0 -0.979,0.02 -1.471,0.058 -8.899,0.702 -16.14,7.943 -16.842,16.843 -0.427,5.41 1.516,10.7 5.331,14.515 3.815,3.815 9.1,5.761001 14.516,5.331001 v 0 c 8.899,-0.701001 16.141,-7.941001 16.843,-16.842001 0.427,-5.41 -1.517,-10.701 -5.331,-14.516 -3.469,-3.468 -8.158,-5.389 -13.046,-5.389 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 transform="matrix(4.559982,0,0,4.559982,-72.130712,-204.98172)"
+                 style="opacity:0.997;fill:#4d4d4d;fill-opacity:1;stroke:#4d4d4d;stroke-width:4.36665;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none"
+                 d="m -39.482839,71.054665 c -0.0467,-0.414094 -0.19882,-0.772692 -0.443,-1.04428 -0.212201,-0.236017 -0.377379,-0.338937 -0.847555,-0.528098 -0.227664,-0.09159 -0.541782,-0.220074 -0.69804,-0.285513 -0.476167,-0.199412 -0.967955,-0.188342 -1.424306,0.03206 -0.119456,0.05769 -0.28219,0.162638 -0.361633,0.233209 l -0.144441,0.128312 -0.808458,-0.810696 -0.808459,-0.810695 0.123909,-0.137827 c 0.157199,-0.174856 0.329905,-0.518506 0.378709,-0.753551 0.02144,-0.103256 0.03134,-0.304849 0.0229,-0.466243 -0.01235,-0.236121 -0.03488,-0.33247 -0.132895,-0.568211 -0.06491,-0.156132 -0.188484,-0.459612 -0.274596,-0.674399 -0.190496,-0.475144 -0.31009,-0.667579 -0.545017,-0.876966 -0.281465,-0.250866 -0.600917,-0.385904 -1.03702,-0.438367 l -0.181512,-0.02184 V 62.901053 61.77054 l 0.181512,-0.02047 c 0.416216,-0.04694 0.77267,-0.1988 1.048307,-0.446621 0.22531,-0.202573 0.345541,-0.397957 0.53373,-0.867347 0.08611,-0.214787 0.209681,-0.518267 0.274596,-0.674399 0.201379,-0.484348 0.188895,-0.983146 -0.03585,-1.432387 -0.05944,-0.118814 -0.163963,-0.279519 -0.232273,-0.357123 l -0.124199,-0.141098 0.810695,-0.808459 0.810696,-0.808458 0.137826,0.123909 c 0.174856,0.157199 0.518506,0.329905 0.753552,0.378708 0.103255,0.02144 0.304848,0.03134 0.466243,0.0229 0.23612,-0.01235 0.332469,-0.03488 0.56821,-0.132895 0.156133,-0.06491 0.460643,-0.188887 0.676689,-0.275491 0.216046,-0.0866 0.468005,-0.207374 0.559908,-0.268376 0.420736,-0.279268 0.687818,-0.745656 0.75177,-1.312766 l 0.02047,-0.181512 h 1.13415 1.134151 v 0.08025 c 0,0.169692 0.103732,0.575315 0.194604,0.76096 0.111178,0.227127 0.351649,0.507892 0.554591,0.647519 0.07884,0.05425 0.329621,0.173568 0.557285,0.265162 0.227665,0.09159 0.54168,0.219577 0.697812,0.284409 0.484912,0.20135 0.983273,0.188677 1.433271,-0.03645 0.119299,-0.05968 0.27893,-0.164273 0.354734,-0.232423 l 0.137827,-0.123909 0.810696,0.808458 0.810695,0.808459 -0.128312,0.144441 c -0.155818,0.175405 -0.325165,0.516493 -0.374556,0.754408 -0.02005,0.09657 -0.03043,0.304248 -0.02307,0.461504 0.01129,0.241364 0.03192,0.330195 0.132358,0.570026 0.06544,0.156258 0.19392,0.470377 0.285513,0.698041 0.191272,0.475423 0.293676,0.638145 0.539458,0.857206 0.274347,0.244522 0.583873,0.375206 1.032921,0.436108 l 0.149944,0.02033 v 1.129 1.129 l -0.237175,0.03528 c -0.421869,0.06275 -0.694757,0.18896 -0.986928,0.456469 -0.178896,0.163796 -0.365338,0.447262 -0.435568,0.662237 -0.02942,0.09005 -0.131787,0.341301 -0.227482,0.558326 -0.217681,0.493671 -0.258577,0.64587 -0.259046,0.964061 -6.32e-4,0.427979 0.148229,0.834524 0.413583,1.129514 l 0.118664,0.131917 -0.808458,0.810695 -0.808458,0.810696 -0.141099,-0.1242 c -0.179746,-0.158219 -0.521577,-0.329639 -0.753241,-0.377732 -0.09905,-0.02056 -0.308758,-0.03137 -0.466014,-0.02401 -0.241363,0.01129 -0.330195,0.03192 -0.570026,0.132358 -0.156258,0.06544 -0.470376,0.19392 -0.698041,0.285513 -0.467167,0.18795 -0.635559,0.292309 -0.841792,0.521689 -0.264059,0.293697 -0.40785,0.619548 -0.449717,1.019122 l -0.02233,0.213079 h -1.130473 -1.130473 z m 2.052015,-2.639928 c 0.860742,-0.155519 1.630755,-0.473887 2.320194,-0.959301 0.387176,-0.272599 1.060202,-0.945544 1.333318,-1.333156 1.194224,-1.694869 1.3564,-3.861677 0.428826,-5.729459 -1.19743,-2.411169 -3.992924,-3.613926 -6.591936,-2.83617 -0.460834,0.137905 -1.101172,0.446446 -1.538225,0.74118 -0.466838,0.314819 -1.141612,0.989594 -1.456432,1.456432 -0.294733,0.437052 -0.603275,1.077391 -0.74118,1.538225 -0.781008,2.60988 0.438564,5.421864 2.867737,6.612184 0.641136,0.314163 1.185956,0.465757 2.036089,0.566532 0.214915,0.02548 1.09252,-0.01146 1.341609,-0.05647 z"
+                 id="path941-81-9-3"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <rect
+         ry="0"
+         y="122.88702"
+         x="315.54016"
+         height="8.3577023"
+         width="7.4216061"
+         id="rect1709-6-72-8-9-0-6"
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.48855px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="316.31305"
+         y="123.88879"
+         id="text1315-9-4"><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="123.88879"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1317-7-5">Eredmények:</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="124.49947"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1339-9-5">asdasd</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="125.11016"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1321-4-9">asd</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="125.72085"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1323-5-3">a</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="126.33154"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1325-9-3">sd</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="126.94222"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1327-9-0" /><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="127.55291"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1329-6-0" /><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="128.1636"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1331-8-7">aaaaaaaaaaasdas</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="128.77429"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1333-6-1">asd</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="129.38498"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1335-6-8">ad</tspan><tspan
+           sodipodi:role="line"
+           x="316.31305"
+           y="129.99567"
+           style="fill:#4d4d4d;stroke-width:0.264584"
+           id="tspan1337-8-5">dsadasd</tspan></text>
+      <rect
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         ry="0.14859316"
+         y="121.41763"
+         x="316.31183"
+         height="0.53647131"
+         width="2.2099392"
+         id="rect928-4-2-4-5-1"
+         style="display:inline;opacity:0.997;fill:#80b3ff;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         rx="0.14859316" />
+      <rect
+         y="115.14236"
+         x="315.15637"
+         height="16.607367"
+         width="25.683455"
+         id="rect1709-96-4"
+         style="display:inline;opacity:0.994;fill:#1a1a1a;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         ry="0"
+         y="115.52797"
+         x="315.54022"
+         height="7.0051594"
+         width="7.4216061"
+         id="rect1709-6-72-8-94"
+         style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         ry="0.20241627"
+         y="116.38893"
+         x="316.24097"
+         height="0.73079091"
+         width="5.7400794"
+         id="rect928-4-2-7"
+         style="display:inline;opacity:0.997;fill:#87cdde;stroke-width:1.22026;stroke-linecap:round"
+         rx="0.20241627" />
+      <path
+         id="rect960-6-0"
+         style="display:inline;opacity:0.997;fill:#87cdde;stroke-width:1.22026;stroke-linecap:round"
+         d="m 316.37979,117.5722 h 5.4625 c 0.077,0 0.13906,0.0619 0.13887,0.13887 -0.002,0.59077 -0.002,0.59199 -0.002,0.59199 l -5.73689,-0.001 v -0.59085 c 0,-0.077 0.0619,-0.13887 0.13888,-0.13887 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssccss" />
+      <rect
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+         ry="0"
+         y="118.32272"
+         x="316.24097"
+         height="0.73079091"
+         width="5.7400794"
+         id="rect962-2-3"
+         style="display:inline;opacity:0.997;fill:#87cdde;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         ry="0"
+         y="119.07322"
+         x="316.24097"
+         height="0.73079091"
+         width="5.7400794"
+         id="rect964-8-9"
+         style="display:inline;opacity:0.997;fill:#008080;stroke-width:1.22026;stroke-linecap:round" />
+      <path
+         sodipodi:nodetypes="cccsscc"
+         inkscape:connector-curvature="0"
+         d="m 316.24293,119.82261 h 5.73768 c 0,0 5.2e-4,0.42102 5.2e-4,0.59583 0,0.0746 -0.0602,0.135 -0.135,0.135 h -5.47016 c -0.075,0 -0.135,-0.0602 -0.135,-0.135 0.002,-0.59583 0.002,-0.59583 0.002,-0.59583 z"
+         style="display:inline;opacity:0.997;fill:#87cdde;stroke-width:1.22026;stroke-linecap:round"
+         id="rect928-4-8-8-6" />
+      <path
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z"
+         inkscape:transform-center-x="-6.2704336e-06"
+         transform="matrix(-0.01373092,0.0230277,0.02317862,0.01364156,321.89854,112.75251)"
+         inkscape:transform-center-y="-0.032827491"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.53480809"
+         sodipodi:arg1="-0.51238946"
+         sodipodi:r2="2.4532039"
+         sodipodi:r1="4.9064078"
+         sodipodi:cy="73.011833"
+         sodipodi:cx="163.19598"
+         sodipodi:sides="3"
+         id="path902-6-4-5"
+         style="display:inline;opacity:0.997;fill:#87cdde;fill-opacity:1;stroke:none;stroke-width:45.4429;stroke-linecap:round"
+         sodipodi:type="star" />
+      <path
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z"
+         inkscape:transform-center-x="-6.2704336e-06"
+         transform="matrix(-0.01373092,-0.0230277,0.02317862,-0.01364156,321.89854,121.49372)"
+         inkscape:transform-center-y="0.032838997"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.53480809"
+         sodipodi:arg1="-0.51238946"
+         sodipodi:r2="2.4532039"
+         sodipodi:r1="4.9064078"
+         sodipodi:cy="73.011833"
+         sodipodi:cx="163.19598"
+         sodipodi:sides="3"
+         id="path1701-5-4"
+         style="display:inline;opacity:0.997;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:45.4429;stroke-linecap:round"
+         sodipodi:type="star" />
+      <text
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="316.64102"
+         y="116.89404"
+         id="text1000-4-07"><tspan
+           sodipodi:role="line"
+           id="tspan998-1-0"
+           x="316.64102"
+           y="116.89404"
+           style="fill:#000080;stroke-width:0.264584">Alakzat...</tspan></text>
+      <text
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_rectangle.png"
+         id="text1000-7-9-5"
+         y="118.04302"
+         x="316.64508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.264584"
+           y="118.04302"
+           x="316.64508"
+           id="tspan998-7-0-1"
+           sodipodi:role="line">Téglalap</tspan></text>
+      <text
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+         id="text1000-2-1-1"
+         y="118.8194"
+         x="316.6131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.264584"
+           y="118.8194"
+           x="316.6131"
+           id="tspan998-0-4-5"
+           sodipodi:role="line">Kör</tspan></text>
+      <text
+         id="text1000-3-8-2"
+         y="119.54324"
+         x="316.6131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.264584"
+           y="119.54324"
+           x="316.6131"
+           id="tspan998-6-32-8"
+           sodipodi:role="line">Ellipszis</tspan></text>
+      <text
+         id="text1000-5-45-20"
+         y="120.29343"
+         x="316.6131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416479px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.264584"
+           y="120.29343"
+           x="316.6131"
+           id="tspan998-2-8-2"
+           sodipodi:role="line">Egyenlőszárú háromszög</tspan></text>
+      <rect
+         ry="0"
+         style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1709-6-5-9"
+         width="17.113308"
+         height="15.790218"
+         x="323.36411"
+         y="115.53107" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1518-1-0"
+         width="25.683455"
+         height="0.64773208"
+         x="315.15637"
+         y="114.49462" />
+      <rect
+         y="113.54127"
+         x="315.15637"
+         height="0.95335573"
+         width="25.683455"
+         id="rect1518-3-3-7"
+         style="display:inline;opacity:0.997;fill:#000080;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         y="114.49462"
+         x="315.15637"
+         height="0.64773208"
+         width="2.1513963"
+         id="rect1543-0-6"
+         style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         y="114.49462"
+         x="317.30777"
+         height="0.64773208"
+         width="2.4458354"
+         id="rect1545-8-8"
+         style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         inkscape:export-ydpi="88.246918"
+         inkscape:export-xdpi="88.246918"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+         y="114.49462"
+         x="315.15637"
+         height="0.64773226"
+         width="3.5708046"
+         id="rect1076-4"
+         style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="88.246918"
+         inkscape:export-xdpi="88.246918"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.427484px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         x="316.19617"
+         y="114.96284"
+         id="text1549-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan1547-57-35"
+           x="316.19617"
+           y="114.96284"
+           style="fill:#cccccc;stroke-width:0.264584">Beállítások</tspan></text>
+      <rect
+         style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1"
+         id="rect1076-6-5"
+         width="3.5708046"
+         height="0.64773226"
+         x="318.55386"
+         y="114.49462"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\change.png"
+         inkscape:export-xdpi="88.246918"
+         inkscape:export-ydpi="88.246918" />
+      <text
+         inkscape:export-ydpi="88.246918"
+         inkscape:export-xdpi="88.246918"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\change.png"
+         id="text1549-9-1-4"
+         y="114.97824"
+         x="319.22379"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.427484px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"><tspan
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="114.97824"
+           x="319.22379"
+           id="tspan1547-6-6-0"
+           sodipodi:role="line">Saját alakzat</tspan></text>
+      <rect
+         style="display:inline;opacity:0.997;fill:#87aade;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1569-0-26"
+         width="7.9115858"
+         height="4.1177258"
+         x="328.26971"
+         y="121.2831" />
+      <path
+         style="display:inline;opacity:0.997;fill:#008000;stroke:#1a1a1a;stroke-width:0.02;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 327.11104,123.37339 h 10.24097"
+         id="path1571-25-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1571-3-1-5"
+         d="m 332.17873,119.71155 v 7.5349"
+         style="display:inline;opacity:0.997;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.02;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#333333;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1709-6-72-8-9-8"
+         width="7.4216061"
+         height="8.3577023"
+         x="315.51706"
+         y="122.88702"
+         ry="0" />
+      <text
+         id="text1315-0"
+         y="123.88879"
+         x="316.28989"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.48855px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264584"
+         xml:space="preserve"><tspan
+           id="tspan1317-76"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="123.88879"
+           x="316.28989"
+           sodipodi:role="line">Eredmények:</tspan><tspan
+           id="tspan1339-4"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="124.49947"
+           x="316.28989"
+           sodipodi:role="line">asdasd</tspan><tspan
+           id="tspan1321-7"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="125.11016"
+           x="316.28989"
+           sodipodi:role="line">asd</tspan><tspan
+           id="tspan1323-4"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="125.72085"
+           x="316.28989"
+           sodipodi:role="line">a</tspan><tspan
+           id="tspan1325-3"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="126.33154"
+           x="316.28989"
+           sodipodi:role="line">sd</tspan><tspan
+           id="tspan1327-6"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="126.94222"
+           x="316.28989"
+           sodipodi:role="line" /><tspan
+           id="tspan1329-3"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="127.55291"
+           x="316.28989"
+           sodipodi:role="line" /><tspan
+           id="tspan1331-3"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="128.1636"
+           x="316.28989"
+           sodipodi:role="line">aaaaaaaaaaasdas</tspan><tspan
+           id="tspan1333-7"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="128.77429"
+           x="316.28989"
+           sodipodi:role="line">asd</tspan><tspan
+           id="tspan1335-5"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="129.38498"
+           x="316.28989"
+           sodipodi:role="line">ad</tspan><tspan
+           id="tspan1337-1"
+           style="fill:#cccccc;stroke-width:0.264584"
+           y="129.99567"
+           x="316.28989"
+           sodipodi:role="line">dsadasd</tspan></text>
+      <rect
+         style="display:inline;opacity:0.997;fill:#cf6679;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect928-4-2-4-0"
+         width="2.2099392"
+         height="0.53647131"
+         x="316.28867"
+         y="121.41763"
+         ry="0.14859316"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"
+         rx="0.14859316" />
+    </g>
+    <rect
+       inkscape:export-ydpi="101.9469"
+       inkscape:export-xdpi="101.9469"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\light.png"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0200001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2143-8"
+       width="29.897917"
+       height="28.785929"
+       x="367.68063"
+       y="133.97086"
+       ry="1.6770217"
+       rx="1.6770217" />
+    <g
+       inkscape:export-ydpi="101.9469"
+       inkscape:export-xdpi="101.9469"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\light.png"
+       transform="translate(54.558306,51.35546)"
+       id="g2041">
+      <rect
+         style="display:inline;opacity:0.997;fill:#cccccc;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1709-96-7-2"
+         width="25.66029"
+         height="16.592388"
+         x="315.36664"
+         y="92.877373" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1709-6-72-8-7-8"
+         width="7.4149127"
+         height="6.9988413"
+         x="315.75015"
+         y="93.262642"
+         ry="0" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#afe9c6;stroke-width:1.22026;stroke-linecap:round"
+         id="rect928-4-2-5-6"
+         width="5.7349024"
+         height="0.73013186"
+         x="316.45026"
+         y="94.122841"
+         ry="0.20223372"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"
+         rx="0.20223372" />
+      <path
+         sodipodi:nodetypes="sssccss"
+         inkscape:connector-curvature="0"
+         d="m 316.58892,95.305038 h 5.45757 c 0.0768,0 0.13895,0.0618 0.13867,0.13867 -0.002,0.59022 -0.004,0.59146 -0.004,0.59146 l -5.73172,-0.001 v -0.5903 c 0,-0.0769 0.0618,-0.13867 0.13868,-0.13867 z"
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect960-6-8-5" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         id="rect962-2-5-2"
+         width="5.7349024"
+         height="0.73013186"
+         x="316.45026"
+         y="96.054863"
+         ry="0"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#5fd38d;stroke-width:1.22026;stroke-linecap:round"
+         id="rect964-8-2-3"
+         width="5.7349024"
+         height="0.73013186"
+         x="316.45026"
+         y="96.804688"
+         ry="0" />
+      <path
+         id="rect928-4-8-8-4-6"
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         d="m 316.45218,97.553408 h 5.73249 c 0,0 5.2e-4,0.42064 5.2e-4,0.5953 0,0.0748 -0.0601,0.13482 -0.13484,0.13482 h -5.46523 c -0.0748,0 -0.13483,-0.0601 -0.13483,-0.13482 0.002,-0.5953 0.002,-0.5953 0.002,-0.5953 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccsscc" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;opacity:0.997;fill:#afe9c6;fill-opacity:1;stroke:none;stroke-width:45.4839;stroke-linecap:round"
+         id="path902-6-4-2-6"
+         sodipodi:sides="3"
+         sodipodi:cx="163.19598"
+         sodipodi:cy="73.011833"
+         sodipodi:r1="4.9064078"
+         sodipodi:r2="2.4532039"
+         sodipodi:arg1="-0.51238946"
+         sodipodi:arg2="0.53480809"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="-0.032800463"
+         transform="matrix(-0.01371854,0.02300695,0.02315769,0.01362924,322.10265,90.489678)"
+         inkscape:transform-center-x="-3.7356986e-06"
+         d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <path
+         sodipodi:type="star"
+         style="display:inline;opacity:0.997;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:45.4839;stroke-linecap:round"
+         id="path1701-5-5-0"
+         sodipodi:sides="3"
+         sodipodi:cx="163.19598"
+         sodipodi:cy="73.011833"
+         sodipodi:r1="4.9064078"
+         sodipodi:r2="2.4532039"
+         sodipodi:arg1="-0.51238946"
+         sodipodi:arg2="0.53480809"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-y="0.032796748"
+         transform="matrix(-0.01371854,-0.02300695,0.02315769,-0.01362924,322.10265,99.222998)"
+         inkscape:transform-center-x="-3.7356986e-06"
+         d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <text
+         id="text1000-4-0-8"
+         y="94.627487"
+         x="316.84988"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416104px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><tspan
+           style="fill:#000080;stroke-width:0.264583"
+           y="94.627487"
+           x="316.84988"
+           id="tspan998-1-5-0"
+           sodipodi:role="line">Alakzat...</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416104px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="316.85397"
+         y="95.775452"
+         id="text1000-7-9-9-4"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_rectangle.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><tspan
+           sodipodi:role="line"
+           id="tspan998-7-0-0-5"
+           x="316.85397"
+           y="95.775452"
+           style="stroke-width:0.264583">Téglalap</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416104px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="316.82208"
+         y="96.551064"
+         id="text1000-2-1-6-21"
+         inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><tspan
+           sodipodi:role="line"
+           id="tspan998-0-4-1-8"
+           x="316.82208"
+           y="96.551064"
+           style="stroke-width:0.264583">Kör</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416104px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="316.82208"
+         y="97.274292"
+         id="text1000-3-8-1-49"><tspan
+           sodipodi:role="line"
+           id="tspan998-6-32-0-09"
+           x="316.82208"
+           y="97.274292"
+           style="stroke-width:0.264583">Ellipszis</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.416104px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="316.82208"
+         y="98.023811"
+         id="text1000-5-45-2-1"><tspan
+           sodipodi:role="line"
+           id="tspan998-2-8-1-9"
+           x="316.82208"
+           y="98.023811"
+           style="stroke-width:0.264583">Egyenlőszárú háromszög</tspan></text>
+      <rect
+         y="93.265739"
+         x="323.56693"
+         height="15.775977"
+         width="17.097874"
+         id="rect1709-6-5-0-4"
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         ry="0" />
+      <rect
+         y="92.230232"
+         x="315.36664"
+         height="0.64714795"
+         width="25.660294"
+         id="rect1518-1-6-1"
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+      <rect
+         style="display:inline;opacity:0.997;fill:#000080;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1518-3-3-0-4"
+         width="25.66029"
+         height="0.95249593"
+         x="315.36664"
+         y="91.277733" />
+      <rect
+         style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1543-0-1-8"
+         width="2.149456"
+         height="0.64714795"
+         x="315.36664"
+         y="92.230232" />
+      <rect
+         style="display:inline;opacity:0.997;fill:none;stroke:none;stroke-width:1.22026;stroke-linecap:round"
+         id="rect1545-8-7-4"
+         width="2.4436293"
+         height="0.64714795"
+         x="317.51614"
+         y="92.230232" />
+      <text
+         id="text1549-3-1-6"
+         y="92.698013"
+         x="316.40549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.427097px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           y="92.698013"
+           x="316.40549"
+           id="tspan1547-57-7-2"
+           sodipodi:role="line">Beállítások</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.427097px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="319.43036"
+         y="92.713387"
+         id="text1549-9-1-6-9"><tspan
+           sodipodi:role="line"
+           id="tspan1547-6-6-8-6"
+           x="319.43036"
+           y="92.713387"
+           style="fill:#4d4d4d;stroke-width:0.264583">Saját alakzat</tspan></text>
+      <rect
+         y="99.012558"
+         x="328.46817"
+         height="4.1140122"
+         width="7.9044514"
+         id="rect1569-0-2-2"
+         style="display:inline;opacity:0.997;fill:#deaa87;stroke-width:1.22026;stroke-linecap:round" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1571-25-4-1"
+         d="M 327.31048,101.10099 H 337.5422"
+         style="display:inline;opacity:0.997;fill:#008000;stroke:#1a1a1a;stroke-width:0.02;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         style="display:inline;opacity:0.997;fill:#1a1a1a;stroke:#1a1a1a;stroke-width:0.02;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 332.37358,97.442458 v 7.528102"
+         id="path1571-3-1-4-7"
+         inkscape:connector-curvature="0" />
+      <rect
+         ry="0"
+         y="100.61506"
+         x="315.72699"
+         height="8.3501635"
+         width="7.4149127"
+         id="rect1709-6-72-8-9-0-64"
+         style="display:inline;opacity:0.997;fill:#ececec;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.488109px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="316.49918"
+         y="101.61592"
+         id="text1315-9-8"><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="101.61592"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1317-7-8">Eredmények:</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="102.22606"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1339-9-3">asdasd</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="102.8362"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1321-4-2">asd</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="103.44633"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1323-5-2">a</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="104.05647"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1325-9-8">sd</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="104.6666"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1327-9-06" /><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="105.27674"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1329-6-5" /><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="105.88687"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1331-8-75">aaaaaaaaaaasdas</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="106.49701"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1333-6-4">asd</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="107.10715"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1335-6-9">ad</tspan><tspan
+           sodipodi:role="line"
+           x="316.49918"
+           y="107.71729"
+           style="fill:#4d4d4d;stroke-width:0.264583"
+           id="tspan1337-8-8">dsadasd</tspan></text>
+      <rect
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         ry="0.14845914"
+         y="99.14698"
+         x="316.49792"
+         height="0.53598744"
+         width="2.2079463"
+         id="rect928-4-2-4-5-5"
+         style="display:inline;opacity:0.997;fill:#80b3ff;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+         rx="0.14845914" />
+    </g>
+    <text
+       inkscape:export-ydpi="101.9469"
+       inkscape:export-xdpi="101.9469"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\dark.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="339.61182"
+       y="139.52448"
+       id="text2201"><tspan
+         sodipodi:role="line"
+         id="tspan2199"
+         x="339.61182"
+         y="139.52448"
+         style="fill:#cccccc;stroke-width:0.264583">Sötét</tspan></text>
+    <text
+       id="text1549-3-3-5-6"
+       y="139.92133"
+       x="375.46286"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\light.png"
+       inkscape:export-xdpi="101.9469"
+       inkscape:export-ydpi="101.9469"><tspan
+         style="fill:#cccccc;stroke-width:0.264583"
+         y="139.92133"
+         x="375.46286"
+         id="tspan1547-57-3-42-6"
+         sodipodi:role="line">Világos</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\units.png"
+       y="49.100471"
+       x="321.44263"
+       height="7.4835467"
+       width="38.832748"
+       id="rect1457"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\settings\units.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="326.59094"
+       y="54.092644"
+       id="text1461"><tspan
+         sodipodi:role="line"
+         id="tspan1459"
+         x="326.59094"
+         y="54.092644"
+         style="fill:#cccccc;stroke-width:0.264583">Mértékegység</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\Documents\AMSZ-Python-CalcGUI\CalcGUI\figures\light_theme\menubar\file.png"
+       y="266.66238"
+       x="149.23492"
+       height="7.4835482"
+       width="17"
+       id="rect1076-6-7"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="151.77592"
+       y="271.96082"
+       id="text1549-9-1-8"
+       inkscape:export-filename="C:\Users\Piri Barnabas\Documents\AMSZ-Python-CalcGUI\CalcGUI\figures\light_theme\menubar\file.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1547-6-6-02"
+         x="151.77592"
+         y="271.96082"
+         style="fill:#cccccc;stroke-width:0.264583">Menü</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1486"
+       d="M 11.1125,107.9758 H 82.814582"
+       style="opacity:0.994;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.22026;stroke-linecap:round" />
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\basic.png"
+       y="294.13193"
+       x="64.697701"
+       height="7.4835482"
+       width="17"
+       id="rect1076-6-7-7"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="67.238701"
+       y="299.43036"
+       id="text1549-9-1-8-7"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\basic.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1547-6-6-02-4"
+         x="67.238701"
+         y="299.43036"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Menü</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\basic.png"
+       y="303.01602"
+       x="64.731224"
+       height="7.4835482"
+       width="17"
+       id="rect1110"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="67.272224"
+       y="308.31445"
+       id="text1114"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\menubar\basic.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1112"
+         x="67.272224"
+         y="308.31445"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Menü</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\settings.png"
+       y="294.13193"
+       x="95.406517"
+       height="7.4835482"
+       width="27"
+       id="rect3898"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:0.996078;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.920601"
+       y="299.54129"
+       id="text3902"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\settings.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan3900"
+         x="97.920601"
+         y="299.54129"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Beállítások</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\settings_hover.png"
+       y="303.01602"
+       x="95.440041"
+       height="7.4835482"
+       width="27"
+       id="rect3904"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:0.996078;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.954124"
+       y="308.42538"
+       id="text3908"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\settings_hover.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan3906"
+         x="97.954124"
+         y="308.42538"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Beállítások</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\change.png"
+       y="294.13193"
+       x="137.24559"
+       height="7.4835482"
+       width="30"
+       id="rect7211"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:0.992157;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="139.80791"
+       y="299.53723"
+       id="text7215"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\change.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan7213"
+         x="139.80791"
+         y="299.53723"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Saját alakzat</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\change_hover.png"
+       y="303.01602"
+       x="137.27911"
+       height="7.4835482"
+       width="30"
+       id="rect7217"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:0.992157;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="139.84143"
+       y="308.41052"
+       id="text7221"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\change_hover.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan7219"
+         x="139.84143"
+         y="308.41052"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Saját alakzat</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\basic.png"
+       y="294.13193"
+       x="175.46397"
+       height="7.4835482"
+       width="34"
+       id="rect11612"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:0.988235;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="178.05724"
+       y="299.54114"
+       id="text11616"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\basic.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan11614"
+         x="178.05724"
+         y="299.54114"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Alap alakzatok</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\basic_hover.png"
+       y="303.01602"
+       x="175.49751"
+       height="7.4835482"
+       width="34"
+       id="rect11618"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:0.988235;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="178.09077"
+       y="308.4097"
+       id="text11622"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\basic_hover.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan11620"
+         x="178.09077"
+         y="308.4097"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Alap alakzatok</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\sol_save.png"
+       y="321.92032"
+       x="65.656982"
+       height="7.4835482"
+       width="48"
+       id="rect1503"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:0.996078;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.250244"
+       y="327.32953"
+       id="text1507"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\sol_save.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1505"
+         x="68.250244"
+         y="327.32953"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Eredmények mentése</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\sol_save_hover.png"
+       y="330.80441"
+       x="65.690521"
+       height="7.4835482"
+       width="48"
+       id="rect1509"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:0.996078;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.283783"
+       y="336.19809"
+       id="text1513"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\sol_save_hover.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1511"
+         x="68.283783"
+         y="336.19809"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Eredmények mentése</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\forms.png"
+       y="323.09744"
+       x="131.74751"
+       height="7.4835482"
+       width="28"
+       id="rect1157"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.31064"
+       y="328.39587"
+       id="text1161"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\forms.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1159"
+         x="134.31064"
+         y="328.39587"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Visszajelzés</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\help.png"
+       y="323.90204"
+       x="175.19579"
+       height="7.4835482"
+       width="15"
+       id="rect1169"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="177.83888"
+       y="329.20047"
+       id="text1173"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\help.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1171"
+         x="177.83888"
+         y="329.20047"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Súgó</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\forms_hover.png"
+       y="332.81967"
+       x="131.74751"
+       height="7.4835482"
+       width="28"
+       id="rect1947"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:0.988235;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.31064"
+       y="338.1181"
+       id="text1951"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\forms_hover.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1949"
+         x="134.31064"
+         y="338.1181"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Visszajelzés</tspan></text>
+    <rect
+       inkscape:export-ydpi="88.246918"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\help_hover.png"
+       y="333.9595"
+       x="175.19579"
+       height="7.4835482"
+       width="15"
+       id="rect6888"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:0.984314;stroke:none;stroke-width:1.22026;stroke-linecap:round;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="177.83888"
+       y="339.25793"
+       id="text6892"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\help_hover.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan6890"
+         x="177.83888"
+         y="339.25793"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Súgó</tspan></text>
+    <rect
+       y="321.44357"
+       x="321.60559"
+       height="40.299568"
+       width="84.352486"
+       id="rect1170"
+       style="display:inline;opacity:0.994;fill:#1a1a1a;stroke-width:1.22026;stroke-linecap:round" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="345.41354"
+       y="340.29456"
+       id="text1174"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\Projektek\AMSZ_CalcGUI_piri\CalcGUI\figures\dark_theme\menubar\basic.png"
+       inkscape:export-xdpi="88.246918"
+       inkscape:export-ydpi="88.246918"><tspan
+         sodipodi:role="line"
+         id="tspan1172"
+         x="345.41354"
+         y="340.29456"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583">Nincs kiszámolt eredmény,</tspan><tspan
+         sodipodi:role="line"
+         x="345.41354"
+         y="346.46817"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1318">amelyet menteni lehetne!</tspan></text>
+    <image
+       width="11.98289"
+       height="10.4"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAImAQMAAAC1gGYuAAAAAXNSR0IB2cksfwAAAAlwSFlzAACA QwAAgEMB0d6D0gAAAAZQTFRFAAAAzMzMyE/AMgAAAAJ0Uk5TAP9bkSK1AAAIrklEQVR4nO3cS3Lz KhAF4Lg88NBLYCksDZbGUliChx6krP/6IetBd9PAAbvqhqGFPzuSzkn0ys+PYhynyWvmaYaZpgvK mqbpBqJO/1moH/J8tyLGsnfrirHu1PQLoY4Pa4JYp6flEdb5aQWEZZ5WRFj2aUH2fPe0IDvFk4Kk 6AC0XrsXZAd7W77dOvWwQrt1BlpmtuJ3WXa2ACF6W4AQuR4WoKUnnHV4W+3hRlrvaAOKAmmdFssD rdBqnYGWWaz4TZZdrOaiQFpusZqLAmktVHNRHFZWa7iR1irazeFGWqe15b/HOq+t8D2WWVuxzbJr qzHcSMutrcZwI6011VoUQOuwsdqK4tjNaiuK09by32Kdt1b4Fstsrdhi2X5WU1G4flZTUWyptnAD rcPOagn3saPVUhSnnpavt849rVBvmb0V6y3b02oIt+tpNRTFnoJa9UWxr4kWK4l2Q1GkVn24k2hj LV9rJdHGWqHWMn2tWGvZ1KoOt+trVYc7paBWbbjTmsBatUVB1ES1RUS7uihIy9dZRLSxVqizTG8r 1lkWaDnKqiwKpEVRtUVBWnXhpqKNterCTdVErUVGu7IokBYZ7cqiQFqGtgLQijWWBVqOtqrCjbRo qq4ogBYd7bqiQFp0TdQVBRPtqnAjLSbaVeFGWoazwmcty1nxs5bjrIqi4KiacAMtLto14UZaXE3U FAXSYmuioijYaGMtX2oZ3gqftCxvxU9ajreKi4KnoFZpUfDRLg830tpGO2w2a2m4j7svcmywNjUR frb7SKG1ifb9BYOxHvvA+of0Zdb6a8THKxjr+dbVCgtl1mofuCV6rLZeu+ap2lr9RK8oH5NXtCNZ 9etU1Vs++aplRbGO9vyabbfe6Vs2ZFlRrFb0+43nduv9Ay07RVlRrHam90arvWP03MeK82ur7eFL rGWbLUFGWj/Ua4phqe/gulixxFreNlEvFlkTZS1ftqgoMlZJuKma6GWVhPs40CopitNAq6QozqTl qiyTszzQCnrLjrSi3lq9i+wcqFVQFBPOOmQtfVEgrWPW0hdF3tKHm7lZu5OlD/eZtqYay+Qtz75Z skKbZfNWYN/c0XJ5KwItdbgnnHVQWNpwI639uQnK0hYF0jopLG1RIK3tKcw4v7zdJErLaCw/3rIa K4y3nMaK/Pt7WZPG0hXFQWXpwo20jipLF26ktbvS8V7JNc/GIK0zY9U8G4O0jM7yGsvqrDDacjor jrYmnaUqCqC1v9LBWZqi2F/EvDILkJamKPYXRDlLE26ktb8gSpyrfY7BltFaPm/ZT1ghb7lPWDFv TVpLEe699c5KuZVcEGWtfLiTex2GWPmiSO6b6GLtg5oviuS+iSFWviiM3vI5y37GCjnL9bTemyux Ys7av2GQlSuK9L6Jekt4jCyxckVRYuXCnd5e1cUy7BJmpLdXjbFyRZG+AWlN/CIvWxZouRIrAK0o Wyk1yJLDTd1eNcaSi4K6C7PWou7C5C25KCTLJkvkcFN3YSItz1pyuNN1MszyAkXehVlruTIrjLII SrIi0JLCTd6FOciSwk3erF1piU+IEpZUFKQVXgtdmSU+IUpYUlEgLVNoSUVRbHneskCLmi5aYYxF UaIVh1j0zdqSxRcF0qKf6YiCxRcF/UyHZPHhli1qGW/Rz3RIFh9upGWKLb4okJYtt/wIy5VbgbPI 2bIVB1jMMx0XyeLCjbSYR79EiysK2aK/NWcxj5GJFlcUzKNfwyyuKEyFxYUbadkay/e3HD37KlqB tujJA61IUtyjX+Msuii4J0Rliw53xmIW0xb3tKls0eHmnhAdZ9FFYT5u0UVhmcm/4yxPWa7OCpTF zB1pRYJinxDtYHERo4qCfZAcad1kiyoK9qH0l8XFlQo3+yA50prk5VS4TcbilpdZXl5OWDZjscuL rCAv96nlMha7vMiKj+WZj9oMdu4zJfzD4TGhhAfJr0DrsWfz/0MiDTc/97k38v9DoshKngXfjrQo hP9d8djqFmRFcZdJi0L43xX3T85tms0wgnUTv3ZaFJK1+18D+5FY0uTpJq2BQksefm+577DC3qqn Ekv6fxO5ETtaUrRzY18ULdY+3FK0R1r7cIshKbRMg7UvCqRlG6x9USAt12J5oBW2Vgu1s1qivQ83 0mqJ9r4oMtZFXp9bS462/Lt2XxSydcls6K0l10TIBGNbFEa0cp9201uZvzH3lpWsSzYZeuu5Kzqt JU18xc0IM7zaym/qjSVRmePt+wgrSox25vxEkSWfe3yMuLLEaIvXO7ZTstb8oU5nidGeLctPuWqt UGaJNTHvPIaf8qu1FJPWlvCRKmtdFFag3vOUh0St1roonDDtvS6kndD3sYRZy74jBTJ0sTQ1IX9i fE9S1cQwa5kkRltlXXXW8vWdxhKjrbJ+u1im2VrCbcdb0jTNB67jMcryip1Qa4UOlnzQobPmLSQf KIy35gaQDxSQlm5fnYtCPuhYLDfImovCAKw53PbLrEkzR/e7A2t5xRyopfobYI5H5tyE6m+T2cqc T1BaUWOp/pabV2vmtCPSUv3tO6+KzClMpKU5VpjmVWEGWq89OjPvuSpsxgovS553U0RbdVx7Hyrr orN8PtqqY3e1pTincB9BMUdzrkNtKc7B3EdUfF72Gv7Kyl+dCKrd8KKyonrXyV/puGp2icesvJU9 9/ieZbJW9pxoiRUUq/6x62Qn5a4jryyXtybVtSil9as5v+8br3T0skLjlY5eVmy8atLLujRdEO1n XZsurva0DMz6/VrLwqzb11ruK60JauGoP+vP+rP+rD/r/2HdoJb7SusXatmvtK5Qy3yldYFauGOF CLVwx1YBauGORT3weLv1jsetBStD7fkczfjVnWdSjavu/Jdq6M4X6kYEWkF1TlQ3vOYcsnKoTpzq hu4ahW5cVSetdUN13Uo5guqCgW7oLoqohu76tm7MF1gQ1ep/VFekNOPxI/4DgCb5wDujYFsAAAAA SUVORK5CYII= "
+       id="image12833"
+       x="327.35394"
+       y="336.39337"
+       style="stroke-width:1.56721" />
+    <rect
+       y="373.43939"
+       x="322.34125"
+       height="40.299568"
+       width="84.352486"
+       id="rect1153"
+       style="display:inline;opacity:0.994;fill:#1a1a1a;fill-opacity:0.996078;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\_Projects\AMSZ_Python_CalcGUI_piri\CalcGUI\figures\light_theme\errors\updatewindow_text.png"
+       inkscape:export-xdpi="100.84476"
+       inkscape:export-ydpi="100.84476" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,324.42417,316.5608)"
+       id="text16815"
+       style="font-size:16px;line-height:1.25;font-family:sans-serif;text-align:start;white-space:pre;shape-inside:url(#rect16817);display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="0"
+       y="0"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\_Projects\AMSZ_Python_CalcGUI_piri\CalcGUI\figures\light_theme\errors\updatewindow_text.png"
+       inkscape:export-xdpi="100.84476"
+       inkscape:export-ydpi="100.84476"><tspan
+         x="82.107422"
+         y="265.54492"
+         id="tspan6272">Figyelem! 
+</tspan><tspan
+         x="82.107422"
+         y="285.54492"
+         id="tspan6274">Új verzió elérhető!
+</tspan><tspan
+         x="82.107422"
+         y="305.54492"
+         id="tspan6276">
+</tspan><tspan
+         x="82.107422"
+         y="325.54492"
+         id="tspan6278">Kérlek frissítsd a programot!</tspan></text>
+    <image
+       width="11.98289"
+       height="10.4"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAImAQMAAAC1gGYuAAAAAXNSR0IB2cksfwAAAAlwSFlzAACA QwAAgEMB0d6D0gAAAAZQTFRFAAAAzMzMyE/AMgAAAAJ0Uk5TAP9bkSK1AAAIrklEQVR4nO3cS3Lz KhAF4Lg88NBLYCksDZbGUliChx6krP/6IetBd9PAAbvqhqGFPzuSzkn0ys+PYhynyWvmaYaZpgvK mqbpBqJO/1moH/J8tyLGsnfrirHu1PQLoY4Pa4JYp6flEdb5aQWEZZ5WRFj2aUH2fPe0IDvFk4Kk 6AC0XrsXZAd7W77dOvWwQrt1BlpmtuJ3WXa2ACF6W4AQuR4WoKUnnHV4W+3hRlrvaAOKAmmdFssD rdBqnYGWWaz4TZZdrOaiQFpusZqLAmktVHNRHFZWa7iR1irazeFGWqe15b/HOq+t8D2WWVuxzbJr qzHcSMutrcZwI6011VoUQOuwsdqK4tjNaiuK09by32Kdt1b4Fstsrdhi2X5WU1G4flZTUWyptnAD rcPOagn3saPVUhSnnpavt849rVBvmb0V6y3b02oIt+tpNRTFnoJa9UWxr4kWK4l2Q1GkVn24k2hj LV9rJdHGWqHWMn2tWGvZ1KoOt+trVYc7paBWbbjTmsBatUVB1ES1RUS7uihIy9dZRLSxVqizTG8r 1lkWaDnKqiwKpEVRtUVBWnXhpqKNterCTdVErUVGu7IokBYZ7cqiQFqGtgLQijWWBVqOtqrCjbRo qq4ogBYd7bqiQFp0TdQVBRPtqnAjLSbaVeFGWoazwmcty1nxs5bjrIqi4KiacAMtLto14UZaXE3U FAXSYmuioijYaGMtX2oZ3gqftCxvxU9ajreKi4KnoFZpUfDRLg830tpGO2w2a2m4j7svcmywNjUR frb7SKG1ifb9BYOxHvvA+of0Zdb6a8THKxjr+dbVCgtl1mofuCV6rLZeu+ap2lr9RK8oH5NXtCNZ 9etU1Vs++aplRbGO9vyabbfe6Vs2ZFlRrFb0+43nduv9Ay07RVlRrHam90arvWP03MeK82ur7eFL rGWbLUFGWj/Ua4phqe/gulixxFreNlEvFlkTZS1ftqgoMlZJuKma6GWVhPs40CopitNAq6QozqTl qiyTszzQCnrLjrSi3lq9i+wcqFVQFBPOOmQtfVEgrWPW0hdF3tKHm7lZu5OlD/eZtqYay+Qtz75Z skKbZfNWYN/c0XJ5KwItdbgnnHVQWNpwI639uQnK0hYF0jopLG1RIK3tKcw4v7zdJErLaCw/3rIa K4y3nMaK/Pt7WZPG0hXFQWXpwo20jipLF26ktbvS8V7JNc/GIK0zY9U8G4O0jM7yGsvqrDDacjor jrYmnaUqCqC1v9LBWZqi2F/EvDILkJamKPYXRDlLE26ktb8gSpyrfY7BltFaPm/ZT1ghb7lPWDFv TVpLEe699c5KuZVcEGWtfLiTex2GWPmiSO6b6GLtg5oviuS+iSFWviiM3vI5y37GCjnL9bTemyux Ys7av2GQlSuK9L6Jekt4jCyxckVRYuXCnd5e1cUy7BJmpLdXjbFyRZG+AWlN/CIvWxZouRIrAK0o Wyk1yJLDTd1eNcaSi4K6C7PWou7C5C25KCTLJkvkcFN3YSItz1pyuNN1MszyAkXehVlruTIrjLII SrIi0JLCTd6FOciSwk3erF1piU+IEpZUFKQVXgtdmSU+IUpYUlEgLVNoSUVRbHneskCLmi5aYYxF UaIVh1j0zdqSxRcF0qKf6YiCxRcF/UyHZPHhli1qGW/Rz3RIFh9upGWKLb4okJYtt/wIy5VbgbPI 2bIVB1jMMx0XyeLCjbSYR79EiysK2aK/NWcxj5GJFlcUzKNfwyyuKEyFxYUbadkay/e3HD37KlqB tujJA61IUtyjX+Msuii4J0Rliw53xmIW0xb3tKls0eHmnhAdZ9FFYT5u0UVhmcm/4yxPWa7OCpTF zB1pRYJinxDtYHERo4qCfZAcad1kiyoK9qH0l8XFlQo3+yA50prk5VS4TcbilpdZXl5OWDZjscuL rCAv96nlMha7vMiKj+WZj9oMdu4zJfzD4TGhhAfJr0DrsWfz/0MiDTc/97k38v9DoshKngXfjrQo hP9d8djqFmRFcZdJi0L43xX3T85tms0wgnUTv3ZaFJK1+18D+5FY0uTpJq2BQksefm+577DC3qqn Ekv6fxO5ETtaUrRzY18ULdY+3FK0R1r7cIshKbRMg7UvCqRlG6x9USAt12J5oBW2Vgu1s1qivQ83 0mqJ9r4oMtZFXp9bS462/Lt2XxSydcls6K0l10TIBGNbFEa0cp9201uZvzH3lpWsSzYZeuu5Kzqt JU18xc0IM7zaym/qjSVRmePt+wgrSox25vxEkSWfe3yMuLLEaIvXO7ZTstb8oU5nidGeLctPuWqt UGaJNTHvPIaf8qu1FJPWlvCRKmtdFFag3vOUh0St1roonDDtvS6kndD3sYRZy74jBTJ0sTQ1IX9i fE9S1cQwa5kkRltlXXXW8vWdxhKjrbJ+u1im2VrCbcdb0jTNB67jMcryip1Qa4UOlnzQobPmLSQf KIy35gaQDxSQlm5fnYtCPuhYLDfImovCAKw53PbLrEkzR/e7A2t5xRyopfobYI5H5tyE6m+T2cqc T1BaUWOp/pabV2vmtCPSUv3tO6+KzClMpKU5VpjmVWEGWq89OjPvuSpsxgovS553U0RbdVx7Hyrr orN8PtqqY3e1pTincB9BMUdzrkNtKc7B3EdUfF72Gv7Kyl+dCKrd8KKyonrXyV/puGp2icesvJU9 9/ieZbJW9pxoiRUUq/6x62Qn5a4jryyXtybVtSil9as5v+8br3T0skLjlY5eVmy8atLLujRdEO1n XZsurva0DMz6/VrLwqzb11ruK60JauGoP+vP+rP+rD/r/2HdoJb7SusXatmvtK5Qy3yldYFauGOF CLVwx1YBauGORT3weLv1jsetBStD7fkczfjVnWdSjavu/Jdq6M4X6kYEWkF1TlQ3vOYcsnKoTpzq hu4ahW5cVSetdUN13Uo5guqCgW7oLoqohu76tm7MF1gQ1ep/VFekNOPxI/4DgCb5wDujYFsAAAAA SUVORK5CYII= "
+       id="image12833-1"
+       x="327.35538"
+       y="388.38919"
+       style="display:inline;stroke-width:1.56721" />
+    <rect
+       inkscape:export-ydpi="90.509621"
+       inkscape:export-xdpi="90.509621"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\_Projects\AMSZ_Python_CalcGUI_piri\CalcGUI\figures\dark_theme\settings\update.png"
+       y="192.37735"
+       x="372.08517"
+       height="7.2964621"
+       width="27.102186"
+       id="rect1076-9-3-9-9-5"
+       style="display:inline;opacity:0.994;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1"
+       ry="3.1009965"
+       rx="3.1009965" />
+    <text
+       inkscape:export-ydpi="90.509621"
+       inkscape:export-xdpi="90.509621"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\_Projects\AMSZ_Python_CalcGUI_piri\CalcGUI\figures\dark_theme\settings\update.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="377.47308"
+       y="197.69318"
+       id="text1549-3-3-0-8-8-4"><tspan
+         sodipodi:role="line"
+         id="tspan1547-57-3-1-9-9-2"
+         x="377.47308"
+         y="197.69318"
+         style="fill:#cccccc;stroke-width:0.264583">Frissítés</tspan></text>
+    <rect
+       inkscape:export-ydpi="90.509613"
+       inkscape:export-xdpi="90.509613"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\_Projects\AMSZ_Python_CalcGUI_piri\CalcGUI\figures\dark_theme\settings\update_hover.png"
+       y="212.06245"
+       x="372.21222"
+       height="7.2964621"
+       width="27.102186"
+       id="rect1076-9-3-9-9-5-9"
+       style="display:inline;opacity:0.994;fill:#4d4d4d;fill-opacity:0.988235;stroke:none;stroke-width:1.22027;stroke-linecap:round;stroke-opacity:1"
+       ry="3.1009965"
+       rx="3.1009965" />
+    <text
+       inkscape:export-ydpi="90.509613"
+       inkscape:export-xdpi="90.509613"
+       inkscape:export-filename="C:\Users\Piri Barnabas\OneDrive - Budapesti Műszaki és Gazdaságtudományi Egyetem\Dokumentumok\BME\AMSZ\_Projects\AMSZ_Python_CalcGUI_piri\CalcGUI\figures\dark_theme\settings\update_hover.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="377.60013"
+       y="217.37828"
+       id="text1549-3-3-0-8-8-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan1547-57-3-1-9-9-2-3"
+         x="377.60013"
+         y="217.37828"
+         style="fill:#cccccc;stroke-width:0.264583">Frissítés</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="calculate_button"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       style="display:inline;opacity:0.997;fill:#cf6679;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect928-4-2-4"
+       width="25.532442"
+       height="6.1980996"
+       x="13.081752"
+       y="90.999077"
+       ry="1.7167649"
+       inkscape:export-xdpi="80.659172"
+       inkscape:export-ydpi="80.659172"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\calculate_button.png"
+       rx="1.7167649" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+       x="18.14819"
+       y="95.798279"
+       id="text3711"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\calculate_button.png"
+       inkscape:export-xdpi="80.659172"
+       inkscape:export-ydpi="80.659172"><tspan
+         sodipodi:role="line"
+         id="tspan3709"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="18.14819"
+         y="95.798279">Számol</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="combo_rectangle"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <path
+       id="rect960-6"
+       style="display:inline;opacity:0.997;fill:#87cdde;stroke-width:1.22026;stroke-linecap:round"
+       d="m 14.134598,46.571159 h 63.110538 c 0.888404,0 1.606801,0.71522 1.603617,1.603618 -0.02446,6.825297 -0.03675,6.839546 -0.03675,6.839546 L 12.530981,55.00096 v -6.826183 c 0,-0.888404 0.715213,-1.603618 1.603617,-1.603618 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccss"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\light_theme\combobox\combo_rectangle.png"
+       inkscape:export-xdpi="75.068855"
+       inkscape:export-ydpi="75.068855" />
+    <text
+       inkscape:export-ydpi="75.068855"
+       inkscape:export-xdpi="75.068855"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\light_theme\combobox\combo_rectangle.png"
+       id="text1000-7-9"
+       y="52.407833"
+       x="16.273014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="52.407833"
+         x="16.273014"
+         id="tspan998-7-0"
+         sodipodi:role="line">Téglalap</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1411"
+     inkscape:label="combo_rectangle_hover"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <path
+       id="path1405"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       d="m 14.134598,46.571159 h 63.110538 c 0.888404,0 1.606801,0.71522 1.603617,1.603618 -0.02446,6.825297 -0.03675,6.839546 -0.03675,6.839546 L 12.530981,55.00096 v -6.826183 c 0,-0.888404 0.715213,-1.603618 1.603617,-1.603618 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccss"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_rectangle_hover.png"
+       inkscape:export-xdpi="75.208755"
+       inkscape:export-ydpi="75.208755" />
+    <text
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_rectangle_hover.png"
+       id="text1409"
+       y="52.407833"
+       x="16.273014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="52.407833"
+         x="16.273014"
+         id="tspan1407"
+         sodipodi:role="line">Téglalap</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="combo_circle"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       inkscape:export-ydpi="35"
+       inkscape:export-xdpi="35"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+       ry="0"
+       y="55.242172"
+       x="12.530981"
+       height="8.4431639"
+       width="66.317772"
+       id="rect962-2"
+       style="display:inline;opacity:0.997;fill:#87cdde;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+    <text
+       inkscape:export-ydpi="35"
+       inkscape:export-xdpi="35"
+       inkscape:export-filename="C:\Users\almos\Documents\GitHub\AMSZ-Python-CalcGUI\CalcGUI\combo_circle_hover.png"
+       id="text1000-2-1"
+       y="60.980358"
+       x="15.904145"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="60.980358"
+         x="15.904145"
+         id="tspan998-0-4"
+         sodipodi:role="line">Kör</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1115"
+     inkscape:label="combo_circle_hover"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_circle_hover.png"
+       ry="0"
+       y="55.242172"
+       x="12.530981"
+       height="8.4431639"
+       width="66.317772"
+       id="rect1109"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round" />
+    <text
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_circle_hover.png"
+       id="text1113"
+       y="60.980358"
+       x="15.904145"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="60.980358"
+         x="15.904145"
+         id="tspan1111"
+         sodipodi:role="line">Kör</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="combo_ellipse"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       ry="0"
+       y="63.913177"
+       x="12.530981"
+       height="8.4431639"
+       width="66.317772"
+       id="rect964-8"
+       style="display:inline;opacity:0.997;fill:#87cdde;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_ellipse.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794" />
+    <text
+       id="text1000-3-8"
+       y="69.608162"
+       x="15.837999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_ellipse.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794"><tspan
+         style="stroke-width:0.264583"
+         y="69.608162"
+         x="15.837999"
+         id="tspan998-6-32"
+         sodipodi:role="line">Ellipszis</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g2630"
+     inkscape:label="combo_ellipse_hover"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       ry="0"
+       y="63.913177"
+       x="12.530981"
+       height="8.4431639"
+       width="66.317772"
+       id="rect2624"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_ellipse_hover.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794" />
+    <text
+       id="text2628"
+       y="69.608162"
+       x="15.837999"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_ellipse_hover.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794"><tspan
+         style="stroke-width:0.264583"
+         y="69.608162"
+         x="15.837999"
+         id="tspan2626"
+         sodipodi:role="line">Ellipszis</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="combo_isosceles"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <path
+       sodipodi:nodetypes="cccsscc"
+       inkscape:connector-curvature="0"
+       d="m 12.553333,72.571152 h 66.289772 c 0,0 0.0056,4.864305 0.0056,6.884012 0,0.86377 -0.695382,1.559152 -1.559152,1.559152 h -63.19942 c -0.86377,0 -1.559152,-0.695382 -1.559152,-1.559152 0.02235,-6.884012 0.02235,-6.884012 0.02235,-6.884012 z"
+       style="display:inline;opacity:0.997;fill:#87cdde;stroke-width:1.22026;stroke-linecap:round"
+       id="rect928-4-8-8"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_isosceles.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794" />
+    <text
+       id="text1000-5-45"
+       y="78.209404"
+       x="15.904145"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_isosceles.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794"><tspan
+         style="stroke-width:0.264583"
+         y="78.209404"
+         x="15.904145"
+         id="tspan998-2-8"
+         sodipodi:role="line">Egyenlőszárú háromszög</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3771"
+     inkscape:label="combo_isosceles_hover"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <path
+       sodipodi:nodetypes="cccsscc"
+       inkscape:connector-curvature="0"
+       d="m 12.553333,72.571152 h 66.289772 c 0,0 0.0056,4.864305 0.0056,6.884012 0,0.86377 -0.695382,1.559152 -1.559152,1.559152 h -63.19942 c -0.86377,0 -1.559152,-0.695382 -1.559152,-1.559152 0.02235,-6.884012 0.02235,-6.884012 0.02235,-6.884012 z"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       id="path3765"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_isosceles_hover.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794" />
+    <text
+       id="text3769"
+       y="78.209404"
+       x="15.904145"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_isosceles_hover.png"
+       inkscape:export-xdpi="75.208794"
+       inkscape:export-ydpi="75.208794"><tspan
+         style="stroke-width:0.264583"
+         y="78.209404"
+         x="15.904145"
+         id="tspan3767"
+         sodipodi:role="line">Egyenlőszárú háromszög</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="combo_default"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       inkscape:export-ydpi="75.208771"
+       inkscape:export-xdpi="75.208771"
+       ry="2.3386083"
+       y="32.900581"
+       x="12.530981"
+       height="8.4431639"
+       width="66.317772"
+       id="rect928-4-2"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_default.png"
+       rx="2.3386083" />
+    <path
+       inkscape:export-ydpi="75.208771"
+       inkscape:export-xdpi="75.208771"
+       d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z"
+       inkscape:transform-center-x="1.214833e-06"
+       transform="matrix(-0.15863969,-0.26604981,0.26779299,-0.15760704,77.89495,91.878293)"
+       inkscape:transform-center-y="0.37929531"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="0.53480809"
+       sodipodi:arg1="-0.51238946"
+       sodipodi:r2="2.4532039"
+       sodipodi:r1="4.9064078"
+       sodipodi:cy="73.011833"
+       sodipodi:cx="163.19598"
+       sodipodi:sides="3"
+       id="path1701-5"
+       style="display:inline;opacity:0.997;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:3.93327;stroke-linecap:round"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_default.png" />
+    <text
+       inkscape:export-ydpi="75.208771"
+       inkscape:export-xdpi="75.208771"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.159876"
+       y="38.736275"
+       id="text1000-4"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_default.png"><tspan
+         sodipodi:role="line"
+         id="tspan998-1"
+         x="16.159876"
+         y="38.736275"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583">Alakzat...</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="combo_rectangle_closed"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       ry="2.3386083"
+       y="11.868043"
+       x="116.69913"
+       height="8.4431639"
+       width="66.317772"
+       id="rect928-4-2-1"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_rectangle_closed.png"
+       rx="2.3386083" />
+    <path
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       inkscape:transform-center-x="1.214833e-06"
+       transform="matrix(-0.15863969,-0.26604981,0.26779299,-0.15760704,182.0631,70.845754)"
+       inkscape:transform-center-y="0.37929531"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="0.53480809"
+       sodipodi:arg1="-0.51238946"
+       sodipodi:r2="2.4532039"
+       sodipodi:r1="4.9064078"
+       sodipodi:cy="73.011833"
+       sodipodi:cx="163.19598"
+       sodipodi:sides="3"
+       id="path1701-5-2"
+       style="display:inline;opacity:0.997;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:3.93327;stroke-linecap:round"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_rectangle_closed.png"
+       d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z" />
+    <text
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="120.32803"
+       y="17.703737"
+       id="text1000-4-2"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_rectangle_closed.png"><tspan
+         sodipodi:role="line"
+         x="120.32803"
+         y="17.703737"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan3902">Téglalap</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4493"
+     inkscape:label="combo_circle_closed"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       ry="2.3386083"
+       y="11.868043"
+       x="116.69913"
+       height="8.4431639"
+       width="66.317772"
+       id="rect4485"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_circle_closed.png"
+       rx="2.3386083" />
+    <path
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       inkscape:transform-center-x="1.214833e-06"
+       transform="matrix(-0.15863969,-0.26604981,0.26779299,-0.15760704,182.0631,70.845754)"
+       inkscape:transform-center-y="0.37929531"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="0.53480809"
+       sodipodi:arg1="-0.51238946"
+       sodipodi:r2="2.4532039"
+       sodipodi:r1="4.9064078"
+       sodipodi:cy="73.011833"
+       sodipodi:cx="163.19598"
+       sodipodi:sides="3"
+       id="path4487"
+       style="display:inline;opacity:0.997;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:3.93327;stroke-linecap:round"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_circle_closed.png"
+       d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z" />
+    <text
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="120.32803"
+       y="17.703737"
+       id="text4491"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_circle_closed.png"><tspan
+         sodipodi:role="line"
+         x="120.32803"
+         y="17.703737"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4489">Kör</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4503"
+     inkscape:label="combo_ellipse_closed"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       ry="2.3386083"
+       y="11.868043"
+       x="116.69913"
+       height="8.4431639"
+       width="66.317772"
+       id="rect4495"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_ellipse_closed.png"
+       rx="2.3386083" />
+    <path
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       inkscape:transform-center-x="1.214833e-06"
+       transform="matrix(-0.15863969,-0.26604981,0.26779299,-0.15760704,182.0631,70.845754)"
+       inkscape:transform-center-y="0.37929531"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="0.53480809"
+       sodipodi:arg1="-0.51238946"
+       sodipodi:r2="2.4532039"
+       sodipodi:r1="4.9064078"
+       sodipodi:cy="73.011833"
+       sodipodi:cx="163.19598"
+       sodipodi:sides="3"
+       id="path4497"
+       style="display:inline;opacity:0.997;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:3.93327;stroke-linecap:round"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_ellipse_closed.png"
+       d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z" />
+    <text
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="120.32803"
+       y="17.703737"
+       id="text4501"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_ellipse_closed.png"><tspan
+         sodipodi:role="line"
+         x="120.32803"
+         y="17.703737"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4499">Ellipszis</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4513"
+     inkscape:label="combo_isosceles_closed"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(-372.08517,-192.37735)">
+    <rect
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       ry="2.3386083"
+       y="11.868043"
+       x="116.69913"
+       height="8.4431639"
+       width="66.318001"
+       id="rect4505"
+       style="display:inline;opacity:0.997;fill:#87a1de;fill-opacity:1;stroke-width:1.22026;stroke-linecap:round"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_isosceles_closed.png"
+       rx="2.3386083" />
+    <path
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       inkscape:transform-center-x="1.214833e-06"
+       transform="matrix(-0.15863969,-0.26604981,0.26779299,-0.15760704,182.0631,70.845754)"
+       inkscape:transform-center-y="0.37929531"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="0.53480809"
+       sodipodi:arg1="-0.51238946"
+       sodipodi:r2="2.4532039"
+       sodipodi:r1="4.9064078"
+       sodipodi:cy="73.011833"
+       sodipodi:cx="163.19598"
+       sodipodi:sides="3"
+       id="path4507"
+       style="display:inline;opacity:0.997;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:3.93327;stroke-linecap:round"
+       sodipodi:type="star"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_isosceles_closed.png"
+       d="m 167.47229,70.606412 -4.3313,7.311521 -4.16631,-7.406778 z" />
+    <text
+       inkscape:export-ydpi="75.208755"
+       inkscape:export-xdpi="75.208755"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.81179px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="120.32803"
+       y="17.703737"
+       id="text4511"
+       inkscape:export-filename="C:\Users\Piri Barnabás\Desktop\GitHub\AMSZ-Python-CalcGUI\CalcGUI\figures\dark_theme\combobox\combo_isosceles_closed.png"><tspan
+         sodipodi:role="line"
+         x="120.32803"
+         y="17.703737"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4509">Egyenlőszárú háromszög</tspan></text>
+  </g>
+</svg>
